@@ -1,0 +1,7802 @@
+[
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "14.128.128.0",
+    "EndIP": "14.128.255.255",
+    "Prefix": "/17",
+    "AllocationDate": 20100915
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "14.129.0.0",
+    "EndIP": "14.129.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20100812
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "14.138.0.0",
+    "EndIP": "14.138.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20100909
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "14.192.80.0",
+    "EndIP": "14.192.95.255",
+    "Prefix": "/20",
+    "AllocationDate": 20100920
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "45.112.88.0",
+    "EndIP": "45.112.95.255",
+    "Prefix": "/21",
+    "AllocationDate": 20150226
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "45.112.96.0",
+    "EndIP": "45.112.111.255",
+    "Prefix": "/20",
+    "AllocationDate": 20150226
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "45.112.112.0",
+    "EndIP": "45.112.119.255",
+    "Prefix": "/21",
+    "AllocationDate": 20150226
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "45.112.152.0",
+    "EndIP": "45.112.159.255",
+    "Prefix": "/21",
+    "AllocationDate": 20150303
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "45.112.160.0",
+    "EndIP": "45.112.167.255",
+    "Prefix": "/21",
+    "AllocationDate": 20150303
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "45.112.168.0",
+    "EndIP": "45.112.171.255",
+    "Prefix": "/22",
+    "AllocationDate": 20150303
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "43.230.0.0",
+    "EndIP": "43.230.3.255",
+    "Prefix": "/22",
+    "AllocationDate": 20150130
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "43.224.104.0",
+    "EndIP": "43.224.107.255",
+    "Prefix": "/22",
+    "AllocationDate": 20141121
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "43.250.152.0",
+    "EndIP": "43.250.155.255",
+    "Prefix": "/22",
+    "AllocationDate": 20141028
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "43.251.28.0",
+    "EndIP": "43.251.31.255",
+    "Prefix": "/22",
+    "AllocationDate": 20141105
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "43.251.68.0",
+    "EndIP": "43.251.71.255",
+    "Prefix": "/22",
+    "AllocationDate": 20141107
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "43.251.120.0",
+    "EndIP": "43.251.123.255",
+    "Prefix": "/22",
+    "AllocationDate": 20141110
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "14.206.0.0",
+    "EndIP": "14.206.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20100920
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "27.0.236.0",
+    "EndIP": "27.0.239.255",
+    "Prefix": "/22",
+    "AllocationDate": 20160203
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "27.1.0.0",
+    "EndIP": "27.1.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20100310
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "27.35.0.0",
+    "EndIP": "27.35.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20100324
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "45.113.44.0",
+    "EndIP": "45.113.47.255",
+    "Prefix": "/22",
+    "AllocationDate": 20150312
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "45.113.48.0",
+    "EndIP": "45.113.51.255",
+    "Prefix": "/22",
+    "AllocationDate": 20150312
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "43.230.76.0",
+    "EndIP": "43.230.79.255",
+    "Prefix": "/22",
+    "AllocationDate": 20150203
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "43.230.80.0",
+    "EndIP": "43.230.83.255",
+    "Prefix": "/22",
+    "AllocationDate": 20150203
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "43.230.216.0",
+    "EndIP": "43.230.219.255",
+    "Prefix": "/22",
+    "AllocationDate": 20150211
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "27.160.0.0",
+    "EndIP": "27.175.255.255",
+    "Prefix": "/12",
+    "AllocationDate": 20100408
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "27.176.0.0",
+    "EndIP": "27.183.255.255",
+    "Prefix": "/13",
+    "AllocationDate": 20100408
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "27.232.0.0",
+    "EndIP": "27.239.255.255",
+    "Prefix": "/13",
+    "AllocationDate": 20100331
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "27.255.64.0",
+    "EndIP": "27.255.95.255",
+    "Prefix": "/19",
+    "AllocationDate": 20100622
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "27.255.96.0",
+    "EndIP": "27.255.127.255",
+    "Prefix": "/19",
+    "AllocationDate": 20100624
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "36.38.0.0",
+    "EndIP": "36.39.255.255",
+    "Prefix": "/15",
+    "AllocationDate": 20110203
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "43.246.152.0",
+    "EndIP": "43.246.155.255",
+    "Prefix": "/22",
+    "AllocationDate": 20150820
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "43.246.180.0",
+    "EndIP": "43.246.183.255",
+    "Prefix": "/22",
+    "AllocationDate": 20150820
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "27.100.128.0",
+    "EndIP": "27.100.255.255",
+    "Prefix": "/17",
+    "AllocationDate": 20100531
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "27.101.0.0",
+    "EndIP": "27.101.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20100525
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "27.102.0.0",
+    "EndIP": "27.102.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20100527
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "45.119.144.0",
+    "EndIP": "45.119.147.255",
+    "Prefix": "/22",
+    "AllocationDate": 20150608
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "45.120.64.0",
+    "EndIP": "45.120.67.255",
+    "Prefix": "/22",
+    "AllocationDate": 20150611
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "45.120.68.0",
+    "EndIP": "45.120.71.255",
+    "Prefix": "/22",
+    "AllocationDate": 20150611
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "43.241.104.0",
+    "EndIP": "43.241.107.255",
+    "Prefix": "/22",
+    "AllocationDate": 20140821
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "43.241.108.0",
+    "EndIP": "43.241.111.255",
+    "Prefix": "/22",
+    "AllocationDate": 20140821
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "43.247.104.0",
+    "EndIP": "43.247.107.255",
+    "Prefix": "/22",
+    "AllocationDate": 20140716
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "43.247.192.0",
+    "EndIP": "43.247.195.255",
+    "Prefix": "/22",
+    "AllocationDate": 20140718
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "27.111.96.0",
+    "EndIP": "27.111.127.255",
+    "Prefix": "/19",
+    "AllocationDate": 20100629
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "27.112.128.0",
+    "EndIP": "27.112.255.255",
+    "Prefix": "/17",
+    "AllocationDate": 20100705
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "27.113.0.0",
+    "EndIP": "27.113.127.255",
+    "Prefix": "/17",
+    "AllocationDate": 20100707
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "45.115.152.0",
+    "EndIP": "45.115.155.255",
+    "Prefix": "/22",
+    "AllocationDate": 20150422
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "1.11.0.0",
+    "EndIP": "1.11.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20100616
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "1.16.0.0",
+    "EndIP": "1.19.255.255",
+    "Prefix": "/14",
+    "AllocationDate": 20100512
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "43.254.244.0",
+    "EndIP": "43.254.247.255",
+    "Prefix": "/22",
+    "AllocationDate": 20140729
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "39.4.0.0",
+    "EndIP": "39.7.255.255",
+    "Prefix": "/14",
+    "AllocationDate": 20110405
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "39.16.0.0",
+    "EndIP": "39.31.255.255",
+    "Prefix": "/12",
+    "AllocationDate": 20110330
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "39.112.0.0",
+    "EndIP": "39.127.255.255",
+    "Prefix": "/12",
+    "AllocationDate": 20110408
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "42.8.0.0",
+    "EndIP": "42.15.255.255",
+    "Prefix": "/13",
+    "AllocationDate": 20110207
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "42.16.0.0",
+    "EndIP": "42.31.255.255",
+    "Prefix": "/12",
+    "AllocationDate": 20110128
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "42.32.0.0",
+    "EndIP": "42.47.255.255",
+    "Prefix": "/12",
+    "AllocationDate": 20110128
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "43.227.116.0",
+    "EndIP": "43.227.119.255",
+    "Prefix": "/22",
+    "AllocationDate": 20141219
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "43.227.120.0",
+    "EndIP": "43.227.123.255",
+    "Prefix": "/22",
+    "AllocationDate": 20141219
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "27.115.128.0",
+    "EndIP": "27.115.255.255",
+    "Prefix": "/17",
+    "AllocationDate": 20100713
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "27.116.64.0",
+    "EndIP": "27.116.127.255",
+    "Prefix": "/18",
+    "AllocationDate": 20100714
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "27.116.128.0",
+    "EndIP": "27.116.255.255",
+    "Prefix": "/17",
+    "AllocationDate": 20100715
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "27.117.0.0",
+    "EndIP": "27.117.63.255",
+    "Prefix": "/18",
+    "AllocationDate": 20100715
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "27.117.64.0",
+    "EndIP": "27.117.127.255",
+    "Prefix": "/18",
+    "AllocationDate": 20100719
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "27.117.128.0",
+    "EndIP": "27.117.191.255",
+    "Prefix": "/18",
+    "AllocationDate": 20100719
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "27.117.192.0",
+    "EndIP": "27.117.255.255",
+    "Prefix": "/18",
+    "AllocationDate": 20100721
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "27.118.64.0",
+    "EndIP": "27.118.127.255",
+    "Prefix": "/18",
+    "AllocationDate": 20100730
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "27.118.128.0",
+    "EndIP": "27.118.255.255",
+    "Prefix": "/17",
+    "AllocationDate": 20100722
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "27.119.0.0",
+    "EndIP": "27.119.127.255",
+    "Prefix": "/17",
+    "AllocationDate": 20100722
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "27.119.128.0",
+    "EndIP": "27.119.255.255",
+    "Prefix": "/17",
+    "AllocationDate": 20100723
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "27.120.0.0",
+    "EndIP": "27.120.63.255",
+    "Prefix": "/18",
+    "AllocationDate": 20100902
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "27.122.128.0",
+    "EndIP": "27.122.255.255",
+    "Prefix": "/17",
+    "AllocationDate": 20101005
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "43.242.112.0",
+    "EndIP": "43.242.115.255",
+    "Prefix": "/22",
+    "AllocationDate": 20140901
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "45.117.12.0",
+    "EndIP": "45.117.15.255",
+    "Prefix": "/22",
+    "AllocationDate": 20150513
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "1.96.0.0",
+    "EndIP": "1.111.255.255",
+    "Prefix": "/12",
+    "AllocationDate": 20100607
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "1.176.0.0",
+    "EndIP": "1.177.255.255",
+    "Prefix": "/15",
+    "AllocationDate": 20100616
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "1.201.0.0",
+    "EndIP": "1.201.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20100713
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "1.208.0.0",
+    "EndIP": "1.223.255.255",
+    "Prefix": "/12",
+    "AllocationDate": 20100611
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "1.224.0.0",
+    "EndIP": "1.255.255.255",
+    "Prefix": "/11",
+    "AllocationDate": 20100719
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "14.0.32.0",
+    "EndIP": "14.0.63.255",
+    "Prefix": "/19",
+    "AllocationDate": 20100912
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "14.0.64.0",
+    "EndIP": "14.0.127.255",
+    "Prefix": "/18",
+    "AllocationDate": 20100912
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "14.4.0.0",
+    "EndIP": "14.7.255.255",
+    "Prefix": "/14",
+    "AllocationDate": 20100824
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "14.32.0.0",
+    "EndIP": "14.63.255.255",
+    "Prefix": "/11",
+    "AllocationDate": 20100802
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "14.64.0.0",
+    "EndIP": "14.95.255.255",
+    "Prefix": "/11",
+    "AllocationDate": 20100802
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "43.255.248.0",
+    "EndIP": "43.255.251.255",
+    "Prefix": "/22",
+    "AllocationDate": 20140808
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "43.255.252.0",
+    "EndIP": "43.255.255.255",
+    "Prefix": "/22",
+    "AllocationDate": 20140808
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "45.64.140.0",
+    "EndIP": "45.64.143.255",
+    "Prefix": "/22",
+    "AllocationDate": 20140616
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "45.64.144.0",
+    "EndIP": "45.64.147.255",
+    "Prefix": "/22",
+    "AllocationDate": 20140616
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "45.64.152.0",
+    "EndIP": "45.64.155.255",
+    "Prefix": "/22",
+    "AllocationDate": 20140616
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "45.64.172.0",
+    "EndIP": "45.64.175.255",
+    "Prefix": "/22",
+    "AllocationDate": 20140617
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "42.82.0.0",
+    "EndIP": "42.82.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20110203
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "43.228.160.0",
+    "EndIP": "43.228.163.255",
+    "Prefix": "/22",
+    "AllocationDate": 20150105
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "27.124.128.0",
+    "EndIP": "27.124.255.255",
+    "Prefix": "/17",
+    "AllocationDate": 20101012
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "27.125.0.0",
+    "EndIP": "27.125.127.255",
+    "Prefix": "/17",
+    "AllocationDate": 20101012
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "27.126.0.0",
+    "EndIP": "27.126.63.255",
+    "Prefix": "/18",
+    "AllocationDate": 20101013
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "43.243.216.0",
+    "EndIP": "43.243.219.255",
+    "Prefix": "/22",
+    "AllocationDate": 20140916
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.3.36.0",
+    "EndIP": "103.3.39.255",
+    "Prefix": "/22",
+    "AllocationDate": 20110428
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "59.186.0.0",
+    "EndIP": "59.187.255.255",
+    "Prefix": "/15",
+    "AllocationDate": 20041203
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "61.32.0.0",
+    "EndIP": "61.39.255.255",
+    "Prefix": "/13",
+    "AllocationDate": 20000918
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "61.40.0.0",
+    "EndIP": "61.43.255.255",
+    "Prefix": "/14",
+    "AllocationDate": 20000918
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "101.53.64.0",
+    "EndIP": "101.53.95.255",
+    "Prefix": "/19",
+    "AllocationDate": 20110309
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "101.55.0.0",
+    "EndIP": "101.55.127.255",
+    "Prefix": "/17",
+    "AllocationDate": 20110210
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.7.32.0",
+    "EndIP": "103.7.35.255",
+    "Prefix": "/22",
+    "AllocationDate": 20120314
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.7.190.0",
+    "EndIP": "103.7.191.255",
+    "Prefix": "/23",
+    "AllocationDate": 20151029
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.10.216.0",
+    "EndIP": "103.10.219.255",
+    "Prefix": "/22",
+    "AllocationDate": 20110801
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.11.24.0",
+    "EndIP": "103.11.27.255",
+    "Prefix": "/22",
+    "AllocationDate": 20111011
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.11.44.0",
+    "EndIP": "103.11.47.255",
+    "Prefix": "/22",
+    "AllocationDate": 20111011
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.11.56.0",
+    "EndIP": "103.11.59.255",
+    "Prefix": "/22",
+    "AllocationDate": 20111013
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.21.200.0",
+    "EndIP": "103.21.203.255",
+    "Prefix": "/22",
+    "AllocationDate": 20121017
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.25.16.0",
+    "EndIP": "103.25.19.255",
+    "Prefix": "/22",
+    "AllocationDate": 20130426
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "45.121.164.0",
+    "EndIP": "45.121.167.255",
+    "Prefix": "/22",
+    "AllocationDate": 20150702
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "45.125.232.0",
+    "EndIP": "45.125.235.255",
+    "Prefix": "/22",
+    "AllocationDate": 20150807
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "45.126.148.0",
+    "EndIP": "45.126.151.255",
+    "Prefix": "/22",
+    "AllocationDate": 20150904
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "49.1.0.0",
+    "EndIP": "49.1.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20101008
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "49.8.0.0",
+    "EndIP": "49.11.255.255",
+    "Prefix": "/14",
+    "AllocationDate": 20101011
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "49.16.0.0",
+    "EndIP": "49.31.255.255",
+    "Prefix": "/12",
+    "AllocationDate": 20101013
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "49.50.0.0",
+    "EndIP": "49.50.3.255",
+    "Prefix": "/22",
+    "AllocationDate": 20110311
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "49.50.16.0",
+    "EndIP": "49.50.31.255",
+    "Prefix": "/20",
+    "AllocationDate": 20101101
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "49.50.32.0",
+    "EndIP": "49.50.63.255",
+    "Prefix": "/19",
+    "AllocationDate": 20101101
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "49.56.0.0",
+    "EndIP": "49.63.255.255",
+    "Prefix": "/13",
+    "AllocationDate": 20101013
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "49.128.192.0",
+    "EndIP": "49.128.223.255",
+    "Prefix": "/19",
+    "AllocationDate": 20101110
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "49.142.0.0",
+    "EndIP": "49.142.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20101110
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "49.143.0.0",
+    "EndIP": "49.143.127.255",
+    "Prefix": "/17",
+    "AllocationDate": 20101110
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "58.120.0.0",
+    "EndIP": "58.127.255.255",
+    "Prefix": "/13",
+    "AllocationDate": 20050428
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "58.138.192.0",
+    "EndIP": "58.138.255.255",
+    "Prefix": "/18",
+    "AllocationDate": 20060803
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "58.140.0.0",
+    "EndIP": "58.143.255.255",
+    "Prefix": "/14",
+    "AllocationDate": 20050524
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "58.145.0.0",
+    "EndIP": "58.145.127.255",
+    "Prefix": "/17",
+    "AllocationDate": 20050530
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "58.146.192.0",
+    "EndIP": "58.146.255.255",
+    "Prefix": "/18",
+    "AllocationDate": 20060906
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "58.147.176.0",
+    "EndIP": "58.147.183.255",
+    "Prefix": "/21",
+    "AllocationDate": 20110106
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "58.148.0.0",
+    "EndIP": "58.151.255.255",
+    "Prefix": "/14",
+    "AllocationDate": 20050526
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "58.180.0.0",
+    "EndIP": "58.180.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20050615
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "58.181.0.0",
+    "EndIP": "58.181.63.255",
+    "Prefix": "/18",
+    "AllocationDate": 20050616
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "58.184.0.0",
+    "EndIP": "58.184.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20050628
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "60.196.0.0",
+    "EndIP": "60.197.255.255",
+    "Prefix": "/15",
+    "AllocationDate": 20040729
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "61.47.192.0",
+    "EndIP": "61.47.255.255",
+    "Prefix": "/18",
+    "AllocationDate": 20050308
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "61.72.0.0",
+    "EndIP": "61.75.255.255",
+    "Prefix": "/14",
+    "AllocationDate": 20001212
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "61.76.0.0",
+    "EndIP": "61.77.255.255",
+    "Prefix": "/15",
+    "AllocationDate": 20001212
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "61.78.0.0",
+    "EndIP": "61.79.255.255",
+    "Prefix": "/15",
+    "AllocationDate": 20010511
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "61.80.0.0",
+    "EndIP": "61.83.255.255",
+    "Prefix": "/14",
+    "AllocationDate": 20010511
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "61.84.0.0",
+    "EndIP": "61.85.255.255",
+    "Prefix": "/15",
+    "AllocationDate": 20010511
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "101.202.0.0",
+    "EndIP": "101.202.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20110120
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "101.235.0.0",
+    "EndIP": "101.235.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20110121
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "101.250.0.0",
+    "EndIP": "101.250.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20110121
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.4.48.0",
+    "EndIP": "103.4.51.255",
+    "Prefix": "/22",
+    "AllocationDate": 20110519
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.4.148.0",
+    "EndIP": "103.4.151.255",
+    "Prefix": "/22",
+    "AllocationDate": 20110708
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.4.176.0",
+    "EndIP": "103.4.179.255",
+    "Prefix": "/22",
+    "AllocationDate": 20110713
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.4.180.0",
+    "EndIP": "103.4.183.255",
+    "Prefix": "/22",
+    "AllocationDate": 20110713
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.7.244.0",
+    "EndIP": "103.7.247.255",
+    "Prefix": "/22",
+    "AllocationDate": 20120405
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.8.100.0",
+    "EndIP": "103.8.103.255",
+    "Prefix": "/22",
+    "AllocationDate": 20120418
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.11.128.0",
+    "EndIP": "103.11.131.255",
+    "Prefix": "/22",
+    "AllocationDate": 20111025
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.11.248.0",
+    "EndIP": "103.11.251.255",
+    "Prefix": "/22",
+    "AllocationDate": 20111104
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.22.220.0",
+    "EndIP": "103.22.223.255",
+    "Prefix": "/22",
+    "AllocationDate": 20110511
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "49.160.0.0",
+    "EndIP": "49.175.255.255",
+    "Prefix": "/12",
+    "AllocationDate": 20101201
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "49.236.64.0",
+    "EndIP": "49.236.127.255",
+    "Prefix": "/18",
+    "AllocationDate": 20101129
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "49.238.64.0",
+    "EndIP": "49.238.127.255",
+    "Prefix": "/18",
+    "AllocationDate": 20101206
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "49.238.128.0",
+    "EndIP": "49.238.255.255",
+    "Prefix": "/17",
+    "AllocationDate": 20101206
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "49.239.128.0",
+    "EndIP": "49.239.191.255",
+    "Prefix": "/18",
+    "AllocationDate": 20101206
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "58.224.0.0",
+    "EndIP": "58.239.255.255",
+    "Prefix": "/12",
+    "AllocationDate": 20050627
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "59.0.0.0",
+    "EndIP": "59.31.255.255",
+    "Prefix": "/11",
+    "AllocationDate": 20040802
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "59.86.192.0",
+    "EndIP": "59.86.255.255",
+    "Prefix": "/18",
+    "AllocationDate": 20060714
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "59.150.0.0",
+    "EndIP": "59.150.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20041108
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "59.151.192.0",
+    "EndIP": "59.151.255.255",
+    "Prefix": "/18",
+    "AllocationDate": 20061018
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "60.253.0.0",
+    "EndIP": "60.253.63.255",
+    "Prefix": "/18",
+    "AllocationDate": 20110113
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "60.253.64.0",
+    "EndIP": "60.253.95.255",
+    "Prefix": "/19",
+    "AllocationDate": 20101230
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "61.4.192.0",
+    "EndIP": "61.4.223.255",
+    "Prefix": "/19",
+    "AllocationDate": 20041223
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "61.4.224.0",
+    "EndIP": "61.4.255.255",
+    "Prefix": "/19",
+    "AllocationDate": 20060124
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "61.5.160.0",
+    "EndIP": "61.5.191.255",
+    "Prefix": "/19",
+    "AllocationDate": 20060727
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.5.128.0",
+    "EndIP": "103.5.131.255",
+    "Prefix": "/22",
+    "AllocationDate": 20110921
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.5.144.0",
+    "EndIP": "103.5.147.255",
+    "Prefix": "/22",
+    "AllocationDate": 20110923
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.8.230.0",
+    "EndIP": "103.8.230.255",
+    "Prefix": "/24",
+    "AllocationDate": 20120501
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.9.32.0",
+    "EndIP": "103.9.35.255",
+    "Prefix": "/22",
+    "AllocationDate": 20120508
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.9.128.0",
+    "EndIP": "103.9.131.255",
+    "Prefix": "/22",
+    "AllocationDate": 20120515
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.19.124.0",
+    "EndIP": "103.19.127.255",
+    "Prefix": "/22",
+    "AllocationDate": 20130403
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.23.80.0",
+    "EndIP": "103.23.87.255",
+    "Prefix": "/21",
+    "AllocationDate": 20111117
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.27.128.0",
+    "EndIP": "103.27.131.255",
+    "Prefix": "/22",
+    "AllocationDate": 20130703
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.30.108.0",
+    "EndIP": "103.30.111.255",
+    "Prefix": "/22",
+    "AllocationDate": 20121102
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.30.156.0",
+    "EndIP": "103.30.159.255",
+    "Prefix": "/22",
+    "AllocationDate": 20121108
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.30.160.0",
+    "EndIP": "103.30.163.255",
+    "Prefix": "/22",
+    "AllocationDate": 20121108
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.30.204.0",
+    "EndIP": "103.30.207.255",
+    "Prefix": "/22",
+    "AllocationDate": 20121113
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "45.248.72.0",
+    "EndIP": "45.248.75.255",
+    "Prefix": "/22",
+    "AllocationDate": 20160504
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "49.246.0.0",
+    "EndIP": "49.246.63.255",
+    "Prefix": "/18",
+    "AllocationDate": 20101116
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "49.246.64.0",
+    "EndIP": "49.246.127.255",
+    "Prefix": "/18",
+    "AllocationDate": 20101119
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "49.247.0.0",
+    "EndIP": "49.247.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20101119
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "49.254.0.0",
+    "EndIP": "49.254.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20101029
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "58.29.0.0",
+    "EndIP": "58.29.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20061010
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "59.152.128.0",
+    "EndIP": "59.152.191.255",
+    "Prefix": "/18",
+    "AllocationDate": 20061018
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "61.14.208.0",
+    "EndIP": "61.14.211.255",
+    "Prefix": "/22",
+    "AllocationDate": 20151126
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "61.245.176.0",
+    "EndIP": "61.245.191.255",
+    "Prefix": "/20",
+    "AllocationDate": 20110106
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "61.245.224.0",
+    "EndIP": "61.245.255.255",
+    "Prefix": "/19",
+    "AllocationDate": 20070201
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "61.247.64.0",
+    "EndIP": "61.247.127.255",
+    "Prefix": "/18",
+    "AllocationDate": 20050519
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "61.247.128.0",
+    "EndIP": "61.247.159.255",
+    "Prefix": "/19",
+    "AllocationDate": 20041231
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "61.247.192.0",
+    "EndIP": "61.247.223.255",
+    "Prefix": "/19",
+    "AllocationDate": 20060908
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "101.1.8.0",
+    "EndIP": "101.1.15.255",
+    "Prefix": "/21",
+    "AllocationDate": 20101210
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "101.1.32.0",
+    "EndIP": "101.1.63.255",
+    "Prefix": "/19",
+    "AllocationDate": 20101210
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.2.76.0",
+    "EndIP": "103.2.79.255",
+    "Prefix": "/22",
+    "AllocationDate": 20110420
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.2.84.0",
+    "EndIP": "103.2.87.255",
+    "Prefix": "/22",
+    "AllocationDate": 20110420
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.2.92.0",
+    "EndIP": "103.2.95.255",
+    "Prefix": "/22",
+    "AllocationDate": 20110420
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.6.72.0",
+    "EndIP": "103.6.75.255",
+    "Prefix": "/22",
+    "AllocationDate": 20120221
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.6.80.0",
+    "EndIP": "103.6.83.255",
+    "Prefix": "/22",
+    "AllocationDate": 20120221
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.6.100.0",
+    "EndIP": "103.6.103.255",
+    "Prefix": "/22",
+    "AllocationDate": 20120223
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.6.172.0",
+    "EndIP": "103.6.175.255",
+    "Prefix": "/22",
+    "AllocationDate": 20120301
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.10.92.0",
+    "EndIP": "103.10.95.255",
+    "Prefix": "/22",
+    "AllocationDate": 20110610
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.12.248.0",
+    "EndIP": "103.12.251.255",
+    "Prefix": "/22",
+    "AllocationDate": 20120720
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.12.252.0",
+    "EndIP": "103.12.255.255",
+    "Prefix": "/22",
+    "AllocationDate": 20120720
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.13.52.0",
+    "EndIP": "103.13.55.255",
+    "Prefix": "/22",
+    "AllocationDate": 20120607
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.13.160.0",
+    "EndIP": "103.13.163.255",
+    "Prefix": "/22",
+    "AllocationDate": 20120725
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.20.58.0",
+    "EndIP": "103.20.58.255",
+    "Prefix": "/24",
+    "AllocationDate": 20151118
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.20.116.0",
+    "EndIP": "103.20.119.255",
+    "Prefix": "/22",
+    "AllocationDate": 20120914
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.24.8.0",
+    "EndIP": "103.24.11.255",
+    "Prefix": "/22",
+    "AllocationDate": 20130409
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.27.148.0",
+    "EndIP": "103.27.151.255",
+    "Prefix": "/22",
+    "AllocationDate": 20130704
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.28.60.0",
+    "EndIP": "103.28.63.255",
+    "Prefix": "/22",
+    "AllocationDate": 20111219
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.28.64.0",
+    "EndIP": "103.28.67.255",
+    "Prefix": "/22",
+    "AllocationDate": 20111219
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.31.180.0",
+    "EndIP": "103.31.183.255",
+    "Prefix": "/22",
+    "AllocationDate": 20121129
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "45.249.64.0",
+    "EndIP": "45.249.67.255",
+    "Prefix": "/22",
+    "AllocationDate": 20160510
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "45.249.160.0",
+    "EndIP": "45.249.163.255",
+    "Prefix": "/22",
+    "AllocationDate": 20160512
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "58.65.64.0",
+    "EndIP": "58.65.127.255",
+    "Prefix": "/18",
+    "AllocationDate": 20050322
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "58.72.0.0",
+    "EndIP": "58.79.255.255",
+    "Prefix": "/13",
+    "AllocationDate": 20050316
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "58.84.44.0",
+    "EndIP": "58.84.47.255",
+    "Prefix": "/22",
+    "AllocationDate": 20151002
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "58.87.32.0",
+    "EndIP": "58.87.63.255",
+    "Prefix": "/19",
+    "AllocationDate": 20060925
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "58.102.0.0",
+    "EndIP": "58.103.255.255",
+    "Prefix": "/15",
+    "AllocationDate": 20050517
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.62.228.0",
+    "EndIP": "103.62.231.255",
+    "Prefix": "/22",
+    "AllocationDate": 20150709
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.51.168.0",
+    "EndIP": "103.51.175.255",
+    "Prefix": "/21",
+    "AllocationDate": 20150226
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.51.176.0",
+    "EndIP": "103.51.179.255",
+    "Prefix": "/22",
+    "AllocationDate": 20150226
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.51.184.0",
+    "EndIP": "103.51.191.255",
+    "Prefix": "/21",
+    "AllocationDate": 20150226
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.51.192.0",
+    "EndIP": "103.51.199.255",
+    "Prefix": "/21",
+    "AllocationDate": 20150226
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.51.200.0",
+    "EndIP": "103.51.203.255",
+    "Prefix": "/22",
+    "AllocationDate": 20150226
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.51.240.0",
+    "EndIP": "103.51.255.255",
+    "Prefix": "/20",
+    "AllocationDate": 20150303
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.55.188.0",
+    "EndIP": "103.55.191.255",
+    "Prefix": "/22",
+    "AllocationDate": 20150422
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.59.156.0",
+    "EndIP": "103.59.159.255",
+    "Prefix": "/22",
+    "AllocationDate": 20150604
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.206.74.0",
+    "EndIP": "103.206.75.255",
+    "Prefix": "/23",
+    "AllocationDate": 20160113
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.194.252.0",
+    "EndIP": "103.194.255.255",
+    "Prefix": "/22",
+    "AllocationDate": 20150820
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.212.244.0",
+    "EndIP": "103.212.247.255",
+    "Prefix": "/22",
+    "AllocationDate": 20160401
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.212.248.0",
+    "EndIP": "103.212.251.255",
+    "Prefix": "/22",
+    "AllocationDate": 20160401
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.216.202.0",
+    "EndIP": "103.216.203.255",
+    "Prefix": "/23",
+    "AllocationDate": 20160504
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.226.72.0",
+    "EndIP": "103.226.75.255",
+    "Prefix": "/22",
+    "AllocationDate": 20140221
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.226.76.0",
+    "EndIP": "103.226.79.255",
+    "Prefix": "/22",
+    "AllocationDate": 20140221
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.226.96.0",
+    "EndIP": "103.226.99.255",
+    "Prefix": "/22",
+    "AllocationDate": 20140221
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.38.24.0",
+    "EndIP": "103.38.27.255",
+    "Prefix": "/22",
+    "AllocationDate": 20140901
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.49.44.0",
+    "EndIP": "103.49.47.255",
+    "Prefix": "/22",
+    "AllocationDate": 20150130
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.52.200.0",
+    "EndIP": "103.52.203.255",
+    "Prefix": "/22",
+    "AllocationDate": 20150312
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.53.114.0",
+    "EndIP": "103.53.114.255",
+    "Prefix": "/24",
+    "AllocationDate": 20150324
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.60.120.0",
+    "EndIP": "103.60.123.255",
+    "Prefix": "/22",
+    "AllocationDate": 20150611
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.60.124.0",
+    "EndIP": "103.60.127.255",
+    "Prefix": "/22",
+    "AllocationDate": 20150611
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.214.24.0",
+    "EndIP": "103.214.27.255",
+    "Prefix": "/22",
+    "AllocationDate": 20160407
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.214.88.0",
+    "EndIP": "103.214.91.255",
+    "Prefix": "/22",
+    "AllocationDate": 20160411
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.39.36.0",
+    "EndIP": "103.39.39.255",
+    "Prefix": "/22",
+    "AllocationDate": 20140916
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.42.184.0",
+    "EndIP": "103.42.187.255",
+    "Prefix": "/22",
+    "AllocationDate": 20141110
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.43.64.0",
+    "EndIP": "103.43.64.255",
+    "Prefix": "/24",
+    "AllocationDate": 20141119
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.50.40.0",
+    "EndIP": "103.50.43.255",
+    "Prefix": "/22",
+    "AllocationDate": 20150211
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.57.60.0",
+    "EndIP": "103.57.63.255",
+    "Prefix": "/22",
+    "AllocationDate": 20150513
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.215.144.0",
+    "EndIP": "103.215.147.255",
+    "Prefix": "/22",
+    "AllocationDate": 20160422
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.218.156.0",
+    "EndIP": "103.218.159.255",
+    "Prefix": "/22",
+    "AllocationDate": 20160512
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.218.160.0",
+    "EndIP": "103.218.163.255",
+    "Prefix": "/22",
+    "AllocationDate": 20160512
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.43.120.0",
+    "EndIP": "103.43.123.255",
+    "Prefix": "/22",
+    "AllocationDate": 20141121
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.55.35.0",
+    "EndIP": "103.55.35.255",
+    "Prefix": "/24",
+    "AllocationDate": 20150417
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.194.108.0",
+    "EndIP": "103.194.111.255",
+    "Prefix": "/22",
+    "AllocationDate": 20150807
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.212.124.0",
+    "EndIP": "103.212.127.255",
+    "Prefix": "/22",
+    "AllocationDate": 20160330
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.212.220.0",
+    "EndIP": "103.212.223.255",
+    "Prefix": "/22",
+    "AllocationDate": 20160401
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.244.108.0",
+    "EndIP": "103.244.111.255",
+    "Prefix": "/22",
+    "AllocationDate": 20121214
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.247.220.0",
+    "EndIP": "103.247.223.255",
+    "Prefix": "/22",
+    "AllocationDate": 20120209
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.247.232.0",
+    "EndIP": "103.247.235.255",
+    "Prefix": "/22",
+    "AllocationDate": 20120209
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.248.104.0",
+    "EndIP": "103.248.107.255",
+    "Prefix": "/22",
+    "AllocationDate": 20130517
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.251.104.0",
+    "EndIP": "103.251.107.255",
+    "Prefix": "/22",
+    "AllocationDate": 20130730
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "114.200.0.0",
+    "EndIP": "114.207.255.255",
+    "Prefix": "/13",
+    "AllocationDate": 20080618
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "115.0.0.0",
+    "EndIP": "115.15.255.255",
+    "Prefix": "/12",
+    "AllocationDate": 20080701
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "115.16.0.0",
+    "EndIP": "115.23.255.255",
+    "Prefix": "/13",
+    "AllocationDate": 20080701
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "115.31.96.0",
+    "EndIP": "115.31.127.255",
+    "Prefix": "/19",
+    "AllocationDate": 20080709
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "115.40.0.0",
+    "EndIP": "115.41.255.255",
+    "Prefix": "/15",
+    "AllocationDate": 20080708
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "115.68.0.0",
+    "EndIP": "115.68.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20080715
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "115.69.96.0",
+    "EndIP": "115.69.127.255",
+    "Prefix": "/19",
+    "AllocationDate": 20080718
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "110.93.24.0",
+    "EndIP": "110.93.31.255",
+    "Prefix": "/21",
+    "AllocationDate": 20090421
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "110.93.112.0",
+    "EndIP": "110.93.127.255",
+    "Prefix": "/20",
+    "AllocationDate": 20090424
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "110.165.0.0",
+    "EndIP": "110.165.31.255",
+    "Prefix": "/19",
+    "AllocationDate": 20090424
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "110.165.64.0",
+    "EndIP": "110.165.127.255",
+    "Prefix": "/18",
+    "AllocationDate": 20090427
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "110.172.64.0",
+    "EndIP": "110.172.127.255",
+    "Prefix": "/18",
+    "AllocationDate": 20090428
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "110.232.96.0",
+    "EndIP": "110.232.111.255",
+    "Prefix": "/20",
+    "AllocationDate": 20090519
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "112.72.16.0",
+    "EndIP": "112.72.31.255",
+    "Prefix": "/20",
+    "AllocationDate": 20081224
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "112.72.32.0",
+    "EndIP": "112.72.63.255",
+    "Prefix": "/19",
+    "AllocationDate": 20081224
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "112.72.128.0",
+    "EndIP": "112.72.255.255",
+    "Prefix": "/17",
+    "AllocationDate": 20081229
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "112.76.0.0",
+    "EndIP": "112.77.255.255",
+    "Prefix": "/15",
+    "AllocationDate": 20081231
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "113.60.0.0",
+    "EndIP": "113.60.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20081027
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "113.61.0.0",
+    "EndIP": "113.61.31.255",
+    "Prefix": "/19",
+    "AllocationDate": 20081103
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "113.61.104.0",
+    "EndIP": "113.61.107.255",
+    "Prefix": "/22",
+    "AllocationDate": 20081113
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "113.130.64.0",
+    "EndIP": "113.130.95.255",
+    "Prefix": "/19",
+    "AllocationDate": 20081114
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "113.130.128.0",
+    "EndIP": "113.130.255.255",
+    "Prefix": "/17",
+    "AllocationDate": 20081110
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "113.131.0.0",
+    "EndIP": "113.131.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20081110
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "113.192.64.0",
+    "EndIP": "113.192.127.255",
+    "Prefix": "/18",
+    "AllocationDate": 20110202
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "113.197.80.0",
+    "EndIP": "113.197.95.255",
+    "Prefix": "/20",
+    "AllocationDate": 20081203
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "113.198.0.0",
+    "EndIP": "113.198.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20081126
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "113.199.0.0",
+    "EndIP": "113.199.127.255",
+    "Prefix": "/17",
+    "AllocationDate": 20081126
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "119.192.0.0",
+    "EndIP": "119.223.255.255",
+    "Prefix": "/11",
+    "AllocationDate": 20080226
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "119.235.192.0",
+    "EndIP": "119.235.207.255",
+    "Prefix": "/20",
+    "AllocationDate": 20080307
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "119.235.240.0",
+    "EndIP": "119.235.247.255",
+    "Prefix": "/21",
+    "AllocationDate": 20080311
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "120.29.128.0",
+    "EndIP": "120.29.143.255",
+    "Prefix": "/20",
+    "AllocationDate": 20080317
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "116.68.32.0",
+    "EndIP": "116.68.63.255",
+    "Prefix": "/19",
+    "AllocationDate": 20070509
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "116.68.232.0",
+    "EndIP": "116.68.239.255",
+    "Prefix": "/21",
+    "AllocationDate": 20070517
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "116.84.0.0",
+    "EndIP": "116.84.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20070516
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "116.89.160.0",
+    "EndIP": "116.89.191.255",
+    "Prefix": "/19",
+    "AllocationDate": 20070521
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "116.90.216.0",
+    "EndIP": "116.90.223.255",
+    "Prefix": "/21",
+    "AllocationDate": 20070601
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "116.93.160.0",
+    "EndIP": "116.93.191.255",
+    "Prefix": "/19",
+    "AllocationDate": 20110114
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "116.93.192.0",
+    "EndIP": "116.93.255.255",
+    "Prefix": "/18",
+    "AllocationDate": 20070530
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "117.110.0.0",
+    "EndIP": "117.111.255.255",
+    "Prefix": "/15",
+    "AllocationDate": 20070801
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "119.17.0.0",
+    "EndIP": "119.17.31.255",
+    "Prefix": "/19",
+    "AllocationDate": 20071203
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "119.17.64.0",
+    "EndIP": "119.17.127.255",
+    "Prefix": "/18",
+    "AllocationDate": 20071203
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "119.18.64.0",
+    "EndIP": "119.18.127.255",
+    "Prefix": "/18",
+    "AllocationDate": 20101223
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "120.50.64.0",
+    "EndIP": "120.50.127.255",
+    "Prefix": "/18",
+    "AllocationDate": 20080320
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "120.50.128.0",
+    "EndIP": "120.50.159.255",
+    "Prefix": "/19",
+    "AllocationDate": 20080325
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.230.88.0",
+    "EndIP": "103.230.91.255",
+    "Prefix": "/22",
+    "AllocationDate": 20140429
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.230.112.0",
+    "EndIP": "103.230.115.255",
+    "Prefix": "/22",
+    "AllocationDate": 20140430
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.234.4.0",
+    "EndIP": "103.234.7.255",
+    "Prefix": "/22",
+    "AllocationDate": 20140616
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.241.116.0",
+    "EndIP": "103.241.119.255",
+    "Prefix": "/22",
+    "AllocationDate": 20130902
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.249.28.0",
+    "EndIP": "103.249.31.255",
+    "Prefix": "/22",
+    "AllocationDate": 20130529
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.252.228.0",
+    "EndIP": "103.252.231.255",
+    "Prefix": "/22",
+    "AllocationDate": 20131105
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "106.96.0.0",
+    "EndIP": "106.103.255.255",
+    "Prefix": "/13",
+    "AllocationDate": 20110318
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "106.240.0.0",
+    "EndIP": "106.255.255.255",
+    "Prefix": "/12",
+    "AllocationDate": 20110328
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "110.4.64.0",
+    "EndIP": "110.4.127.255",
+    "Prefix": "/18",
+    "AllocationDate": 20090223
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "111.65.128.0",
+    "EndIP": "111.65.191.255",
+    "Prefix": "/18",
+    "AllocationDate": 20090529
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "111.67.208.0",
+    "EndIP": "111.67.223.255",
+    "Prefix": "/20",
+    "AllocationDate": 20090605
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "111.67.224.0",
+    "EndIP": "111.67.255.255",
+    "Prefix": "/19",
+    "AllocationDate": 20090605
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "112.106.0.0",
+    "EndIP": "112.107.255.255",
+    "Prefix": "/15",
+    "AllocationDate": 20090114
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "112.108.0.0",
+    "EndIP": "112.108.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20090114
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "112.109.32.0",
+    "EndIP": "112.109.63.255",
+    "Prefix": "/19",
+    "AllocationDate": 20090121
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "112.121.0.0",
+    "EndIP": "112.121.31.255",
+    "Prefix": "/19",
+    "AllocationDate": 20090123
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "112.121.192.0",
+    "EndIP": "112.121.255.255",
+    "Prefix": "/18",
+    "AllocationDate": 20090130
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "112.133.0.0",
+    "EndIP": "112.133.127.255",
+    "Prefix": "/17",
+    "AllocationDate": 20090130
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "112.133.128.0",
+    "EndIP": "112.133.191.255",
+    "Prefix": "/18",
+    "AllocationDate": 20090130
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "112.136.128.0",
+    "EndIP": "112.136.255.255",
+    "Prefix": "/17",
+    "AllocationDate": 20090202
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "112.137.176.0",
+    "EndIP": "112.137.183.255",
+    "Prefix": "/21",
+    "AllocationDate": 20090206
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "112.140.64.0",
+    "EndIP": "112.140.127.255",
+    "Prefix": "/18",
+    "AllocationDate": 20090206
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "112.140.144.0",
+    "EndIP": "112.140.151.255",
+    "Prefix": "/21",
+    "AllocationDate": 20090211
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "113.216.0.0",
+    "EndIP": "113.217.255.255",
+    "Prefix": "/15",
+    "AllocationDate": 20081215
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "114.29.0.0",
+    "EndIP": "114.29.127.255",
+    "Prefix": "/17",
+    "AllocationDate": 20080421
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "114.29.128.0",
+    "EndIP": "114.29.191.255",
+    "Prefix": "/18",
+    "AllocationDate": 20080422
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "114.30.0.0",
+    "EndIP": "114.30.31.255",
+    "Prefix": "/19",
+    "AllocationDate": 20080424
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "114.30.48.0",
+    "EndIP": "114.30.63.255",
+    "Prefix": "/20",
+    "AllocationDate": 20080428
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "114.30.128.0",
+    "EndIP": "114.30.255.255",
+    "Prefix": "/17",
+    "AllocationDate": 20080430
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "114.31.32.0",
+    "EndIP": "114.31.63.255",
+    "Prefix": "/19",
+    "AllocationDate": 20080507
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "114.31.112.0",
+    "EndIP": "114.31.127.255",
+    "Prefix": "/20",
+    "AllocationDate": 20080514
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "115.71.0.0",
+    "EndIP": "115.71.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20101221
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "115.84.160.0",
+    "EndIP": "115.84.167.255",
+    "Prefix": "/21",
+    "AllocationDate": 20080724
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "115.86.0.0",
+    "EndIP": "115.86.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20080728
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "115.88.0.0",
+    "EndIP": "115.95.255.255",
+    "Prefix": "/13",
+    "AllocationDate": 20080724
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "115.126.192.0",
+    "EndIP": "115.126.255.255",
+    "Prefix": "/18",
+    "AllocationDate": 20080812
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "115.136.0.0",
+    "EndIP": "115.143.255.255",
+    "Prefix": "/13",
+    "AllocationDate": 20080812
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "115.144.0.0",
+    "EndIP": "115.144.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20080814
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "115.145.0.0",
+    "EndIP": "115.145.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20080814
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "116.120.0.0",
+    "EndIP": "116.127.255.255",
+    "Prefix": "/13",
+    "AllocationDate": 20070521
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "116.193.80.0",
+    "EndIP": "116.193.87.255",
+    "Prefix": "/21",
+    "AllocationDate": 20070411
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "116.193.88.0",
+    "EndIP": "116.193.95.255",
+    "Prefix": "/21",
+    "AllocationDate": 20070601
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "116.199.160.0",
+    "EndIP": "116.199.167.255",
+    "Prefix": "/21",
+    "AllocationDate": 20070420
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "116.200.0.0",
+    "EndIP": "116.201.255.255",
+    "Prefix": "/15",
+    "AllocationDate": 20070418
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "116.212.0.0",
+    "EndIP": "116.212.31.255",
+    "Prefix": "/19",
+    "AllocationDate": 20070423
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "117.123.0.0",
+    "EndIP": "117.123.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20070807
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "118.32.0.0",
+    "EndIP": "118.63.255.255",
+    "Prefix": "/11",
+    "AllocationDate": 20070803
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "118.91.0.0",
+    "EndIP": "118.91.63.255",
+    "Prefix": "/18",
+    "AllocationDate": 20070824
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "118.91.64.0",
+    "EndIP": "118.91.127.255",
+    "Prefix": "/18",
+    "AllocationDate": 20070824
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "118.91.144.0",
+    "EndIP": "118.91.159.255",
+    "Prefix": "/20",
+    "AllocationDate": 20090310
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "119.30.128.0",
+    "EndIP": "119.30.191.255",
+    "Prefix": "/18",
+    "AllocationDate": 20071218
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "119.31.240.0",
+    "EndIP": "119.31.247.255",
+    "Prefix": "/21",
+    "AllocationDate": 20071227
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "119.31.248.0",
+    "EndIP": "119.31.255.255",
+    "Prefix": "/21",
+    "AllocationDate": 20080103
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "119.42.160.0",
+    "EndIP": "119.42.191.255",
+    "Prefix": "/19",
+    "AllocationDate": 20080108
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "120.136.64.0",
+    "EndIP": "120.136.127.255",
+    "Prefix": "/18",
+    "AllocationDate": 20080408
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "120.142.0.0",
+    "EndIP": "120.142.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20080417
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "120.143.160.0",
+    "EndIP": "120.143.191.255",
+    "Prefix": "/19",
+    "AllocationDate": 20080422
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "120.143.192.0",
+    "EndIP": "120.143.255.255",
+    "Prefix": "/18",
+    "AllocationDate": 20080422
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "121.0.64.0",
+    "EndIP": "121.0.127.255",
+    "Prefix": "/18",
+    "AllocationDate": 20060619
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "121.0.128.0",
+    "EndIP": "121.0.255.255",
+    "Prefix": "/17",
+    "AllocationDate": 20060619
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "121.1.64.0",
+    "EndIP": "121.1.127.255",
+    "Prefix": "/18",
+    "AllocationDate": 20060523
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.231.128.0",
+    "EndIP": "103.231.131.255",
+    "Prefix": "/22",
+    "AllocationDate": 20140513
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.235.24.0",
+    "EndIP": "103.235.27.255",
+    "Prefix": "/22",
+    "AllocationDate": 20140701
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.238.248.0",
+    "EndIP": "103.238.251.255",
+    "Prefix": "/22",
+    "AllocationDate": 20140729
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.239.112.0",
+    "EndIP": "103.239.115.255",
+    "Prefix": "/22",
+    "AllocationDate": 20140805
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.243.20.0",
+    "EndIP": "103.243.23.255",
+    "Prefix": "/22",
+    "AllocationDate": 20131003
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.246.56.0",
+    "EndIP": "103.246.59.255",
+    "Prefix": "/22",
+    "AllocationDate": 20110706
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.253.56.0",
+    "EndIP": "103.253.59.255",
+    "Prefix": "/22",
+    "AllocationDate": 20131112
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.253.240.0",
+    "EndIP": "103.253.243.255",
+    "Prefix": "/22",
+    "AllocationDate": 20160203
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "110.5.128.0",
+    "EndIP": "110.5.255.255",
+    "Prefix": "/17",
+    "AllocationDate": 20090225
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "110.8.0.0",
+    "EndIP": "110.15.255.255",
+    "Prefix": "/13",
+    "AllocationDate": 20090218
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "110.34.64.0",
+    "EndIP": "110.34.127.255",
+    "Prefix": "/18",
+    "AllocationDate": 20090302
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "110.35.0.0",
+    "EndIP": "110.35.63.255",
+    "Prefix": "/18",
+    "AllocationDate": 20090303
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "110.35.96.0",
+    "EndIP": "110.35.127.255",
+    "Prefix": "/19",
+    "AllocationDate": 20090304
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "110.35.128.0",
+    "EndIP": "110.35.255.255",
+    "Prefix": "/17",
+    "AllocationDate": 20090304
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "110.44.32.0",
+    "EndIP": "110.44.63.255",
+    "Prefix": "/19",
+    "AllocationDate": 20090306
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "110.44.192.0",
+    "EndIP": "110.44.255.255",
+    "Prefix": "/18",
+    "AllocationDate": 20090311
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "110.45.0.0",
+    "EndIP": "110.45.127.255",
+    "Prefix": "/17",
+    "AllocationDate": 20090311
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "110.45.128.0",
+    "EndIP": "110.45.255.255",
+    "Prefix": "/17",
+    "AllocationDate": 20090318
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "110.46.0.0",
+    "EndIP": "110.47.255.255",
+    "Prefix": "/15",
+    "AllocationDate": 20090311
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "111.91.128.0",
+    "EndIP": "111.91.143.255",
+    "Prefix": "/20",
+    "AllocationDate": 20090623
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "111.91.144.0",
+    "EndIP": "111.91.159.255",
+    "Prefix": "/20",
+    "AllocationDate": 20090623
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "111.91.160.0",
+    "EndIP": "111.91.191.255",
+    "Prefix": "/19",
+    "AllocationDate": 20090623
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "111.92.188.0",
+    "EndIP": "111.92.191.255",
+    "Prefix": "/22",
+    "AllocationDate": 20110121
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "111.118.0.0",
+    "EndIP": "111.118.127.255",
+    "Prefix": "/17",
+    "AllocationDate": 20090629
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "112.140.152.0",
+    "EndIP": "112.140.159.255",
+    "Prefix": "/21",
+    "AllocationDate": 20090211
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "112.140.192.0",
+    "EndIP": "112.140.255.255",
+    "Prefix": "/18",
+    "AllocationDate": 20090210
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "112.144.0.0",
+    "EndIP": "112.159.255.255",
+    "Prefix": "/12",
+    "AllocationDate": 20090210
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "112.160.0.0",
+    "EndIP": "112.191.255.255",
+    "Prefix": "/11",
+    "AllocationDate": 20090210
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "112.196.192.0",
+    "EndIP": "112.196.223.255",
+    "Prefix": "/19",
+    "AllocationDate": 20090213
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "112.212.0.0",
+    "EndIP": "112.212.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20090216
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "112.213.0.0",
+    "EndIP": "112.213.31.255",
+    "Prefix": "/19",
+    "AllocationDate": 20090218
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "112.214.0.0",
+    "EndIP": "112.214.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20090218
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "112.216.0.0",
+    "EndIP": "112.223.255.255",
+    "Prefix": "/13",
+    "AllocationDate": 20090216
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "113.10.0.0",
+    "EndIP": "113.10.63.255",
+    "Prefix": "/18",
+    "AllocationDate": 20080917
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "114.52.0.0",
+    "EndIP": "114.53.255.255",
+    "Prefix": "/15",
+    "AllocationDate": 20080429
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "114.70.0.0",
+    "EndIP": "114.71.255.255",
+    "Prefix": "/15",
+    "AllocationDate": 20080514
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "114.108.0.0",
+    "EndIP": "114.108.127.255",
+    "Prefix": "/17",
+    "AllocationDate": 20080520
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "114.108.128.0",
+    "EndIP": "114.108.191.255",
+    "Prefix": "/18",
+    "AllocationDate": 20080521
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "114.110.24.0",
+    "EndIP": "114.110.31.255",
+    "Prefix": "/21",
+    "AllocationDate": 20080523
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "114.110.128.0",
+    "EndIP": "114.110.255.255",
+    "Prefix": "/17",
+    "AllocationDate": 20110113
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "114.111.32.0",
+    "EndIP": "114.111.47.255",
+    "Prefix": "/20",
+    "AllocationDate": 20080523
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "114.111.48.0",
+    "EndIP": "114.111.63.255",
+    "Prefix": "/20",
+    "AllocationDate": 20080527
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "114.111.192.0",
+    "EndIP": "114.111.255.255",
+    "Prefix": "/18",
+    "AllocationDate": 20080528
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "114.129.64.0",
+    "EndIP": "114.129.127.255",
+    "Prefix": "/18",
+    "AllocationDate": 20080529
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "114.129.192.0",
+    "EndIP": "114.129.255.255",
+    "Prefix": "/18",
+    "AllocationDate": 20080604
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "115.160.0.0",
+    "EndIP": "115.160.127.255",
+    "Prefix": "/17",
+    "AllocationDate": 20080819
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "115.161.0.0",
+    "EndIP": "115.161.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20080822
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "115.165.176.0",
+    "EndIP": "115.165.183.255",
+    "Prefix": "/21",
+    "AllocationDate": 20080829
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "115.178.32.0",
+    "EndIP": "115.178.47.255",
+    "Prefix": "/20",
+    "AllocationDate": 20080905
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "115.178.64.0",
+    "EndIP": "115.178.95.255",
+    "Prefix": "/19",
+    "AllocationDate": 20080905
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "115.187.80.0",
+    "EndIP": "115.187.87.255",
+    "Prefix": "/21",
+    "AllocationDate": 20080919
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "116.255.64.0",
+    "EndIP": "116.255.127.255",
+    "Prefix": "/18",
+    "AllocationDate": 20101221
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "118.103.192.0",
+    "EndIP": "118.103.223.255",
+    "Prefix": "/19",
+    "AllocationDate": 20070906
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "118.107.160.0",
+    "EndIP": "118.107.175.255",
+    "Prefix": "/20",
+    "AllocationDate": 20070913
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "118.127.192.0",
+    "EndIP": "118.127.255.255",
+    "Prefix": "/18",
+    "AllocationDate": 20071121
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "118.128.0.0",
+    "EndIP": "118.131.255.255",
+    "Prefix": "/14",
+    "AllocationDate": 20070912
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "118.139.192.0",
+    "EndIP": "118.139.255.255",
+    "Prefix": "/18",
+    "AllocationDate": 20101222
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "119.56.128.0",
+    "EndIP": "119.56.255.255",
+    "Prefix": "/17",
+    "AllocationDate": 20110113
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "119.59.0.0",
+    "EndIP": "119.59.63.255",
+    "Prefix": "/18",
+    "AllocationDate": 20080115
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "119.63.224.0",
+    "EndIP": "119.63.255.255",
+    "Prefix": "/19",
+    "AllocationDate": 20080123
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "119.64.0.0",
+    "EndIP": "119.71.255.255",
+    "Prefix": "/13",
+    "AllocationDate": 20080115
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "119.75.64.0",
+    "EndIP": "119.75.127.255",
+    "Prefix": "/18",
+    "AllocationDate": 20080123
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "119.75.128.0",
+    "EndIP": "119.75.191.255",
+    "Prefix": "/18",
+    "AllocationDate": 20080123
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "119.77.96.0",
+    "EndIP": "119.77.127.255",
+    "Prefix": "/19",
+    "AllocationDate": 20080129
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "119.82.32.0",
+    "EndIP": "119.82.63.255",
+    "Prefix": "/19",
+    "AllocationDate": 20080130
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "121.50.16.0",
+    "EndIP": "121.50.31.255",
+    "Prefix": "/20",
+    "AllocationDate": 20060926
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "121.50.64.0",
+    "EndIP": "121.50.127.255",
+    "Prefix": "/18",
+    "AllocationDate": 20060626
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "121.50.224.0",
+    "EndIP": "121.50.255.255",
+    "Prefix": "/19",
+    "AllocationDate": 20071005
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "121.53.0.0",
+    "EndIP": "121.53.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20060619
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "121.54.192.0",
+    "EndIP": "121.54.255.255",
+    "Prefix": "/18",
+    "AllocationDate": 20060703
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "121.55.64.0",
+    "EndIP": "121.55.127.255",
+    "Prefix": "/18",
+    "AllocationDate": 20060525
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "121.55.128.0",
+    "EndIP": "121.55.191.255",
+    "Prefix": "/18",
+    "AllocationDate": 20060526
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.239.236.0",
+    "EndIP": "103.239.239.255",
+    "Prefix": "/22",
+    "AllocationDate": 20140808
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.239.240.0",
+    "EndIP": "103.239.243.255",
+    "Prefix": "/22",
+    "AllocationDate": 20140808
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.240.28.0",
+    "EndIP": "103.240.31.255",
+    "Prefix": "/22",
+    "AllocationDate": 20130808
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.240.48.0",
+    "EndIP": "103.240.51.255",
+    "Prefix": "/22",
+    "AllocationDate": 20130809
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.243.200.0",
+    "EndIP": "103.243.203.255",
+    "Prefix": "/22",
+    "AllocationDate": 20131016
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.244.40.0",
+    "EndIP": "103.244.43.255",
+    "Prefix": "/22",
+    "AllocationDate": 20121210
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.246.236.0",
+    "EndIP": "103.246.239.255",
+    "Prefix": "/22",
+    "AllocationDate": 20110831
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "110.68.0.0",
+    "EndIP": "110.71.255.255",
+    "Prefix": "/14",
+    "AllocationDate": 20090326
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "110.76.64.0",
+    "EndIP": "110.76.127.255",
+    "Prefix": "/18",
+    "AllocationDate": 20090401
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "110.76.140.0",
+    "EndIP": "110.76.143.255",
+    "Prefix": "/22",
+    "AllocationDate": 20110112
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "110.92.128.0",
+    "EndIP": "110.92.255.255",
+    "Prefix": "/17",
+    "AllocationDate": 20090417
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "111.171.0.0",
+    "EndIP": "111.171.127.255",
+    "Prefix": "/17",
+    "AllocationDate": 20090525
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "111.218.0.0",
+    "EndIP": "111.219.255.255",
+    "Prefix": "/15",
+    "AllocationDate": 20090709
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "111.221.32.0",
+    "EndIP": "111.221.39.255",
+    "Prefix": "/21",
+    "AllocationDate": 20090714
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "113.21.0.0",
+    "EndIP": "113.21.31.255",
+    "Prefix": "/19",
+    "AllocationDate": 20081009
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "113.29.128.0",
+    "EndIP": "113.29.191.255",
+    "Prefix": "/18",
+    "AllocationDate": 20081017
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "113.29.192.0",
+    "EndIP": "113.29.207.255",
+    "Prefix": "/20",
+    "AllocationDate": 20081017
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "113.30.0.0",
+    "EndIP": "113.30.63.255",
+    "Prefix": "/18",
+    "AllocationDate": 20081017
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "113.30.64.0",
+    "EndIP": "113.30.127.255",
+    "Prefix": "/18",
+    "AllocationDate": 20081017
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "113.52.136.0",
+    "EndIP": "113.52.143.255",
+    "Prefix": "/21",
+    "AllocationDate": 20081027
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "113.52.192.0",
+    "EndIP": "113.52.223.255",
+    "Prefix": "/19",
+    "AllocationDate": 20081027
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "113.59.128.0",
+    "EndIP": "113.59.191.255",
+    "Prefix": "/18",
+    "AllocationDate": 20081028
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "114.141.0.0",
+    "EndIP": "114.141.31.255",
+    "Prefix": "/19",
+    "AllocationDate": 20080613
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "114.141.40.0",
+    "EndIP": "114.141.47.255",
+    "Prefix": "/21",
+    "AllocationDate": 20080616
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "114.141.224.0",
+    "EndIP": "114.141.255.255",
+    "Prefix": "/19",
+    "AllocationDate": 20080623
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "114.199.0.0",
+    "EndIP": "114.199.63.255",
+    "Prefix": "/18",
+    "AllocationDate": 20080630
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "114.199.128.0",
+    "EndIP": "114.199.255.255",
+    "Prefix": "/17",
+    "AllocationDate": 20080701
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "116.32.0.0",
+    "EndIP": "116.47.255.255",
+    "Prefix": "/12",
+    "AllocationDate": 20070323
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "116.67.0.0",
+    "EndIP": "116.67.127.255",
+    "Prefix": "/17",
+    "AllocationDate": 20070503
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "117.16.0.0",
+    "EndIP": "117.17.255.255",
+    "Prefix": "/15",
+    "AllocationDate": 20070530
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "117.20.80.0",
+    "EndIP": "117.20.95.255",
+    "Prefix": "/20",
+    "AllocationDate": 20070618
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "117.20.192.0",
+    "EndIP": "117.20.255.255",
+    "Prefix": "/18",
+    "AllocationDate": 20070621
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "117.52.0.0",
+    "EndIP": "117.52.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20110110
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "117.53.64.0",
+    "EndIP": "117.53.95.255",
+    "Prefix": "/19",
+    "AllocationDate": 20070627
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "117.53.96.0",
+    "EndIP": "117.53.127.255",
+    "Prefix": "/19",
+    "AllocationDate": 20070627
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "117.53.192.0",
+    "EndIP": "117.53.255.255",
+    "Prefix": "/18",
+    "AllocationDate": 20070628
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "117.55.128.0",
+    "EndIP": "117.55.191.255",
+    "Prefix": "/18",
+    "AllocationDate": 20070702
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "117.58.128.0",
+    "EndIP": "117.58.143.255",
+    "Prefix": "/20",
+    "AllocationDate": 20070705
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "118.176.0.0",
+    "EndIP": "118.176.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20071012
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "118.216.0.0",
+    "EndIP": "118.223.255.255",
+    "Prefix": "/13",
+    "AllocationDate": 20071025
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "118.234.0.0",
+    "EndIP": "118.235.255.255",
+    "Prefix": "/15",
+    "AllocationDate": 20071105
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "119.148.112.0",
+    "EndIP": "119.148.127.255",
+    "Prefix": "/20",
+    "AllocationDate": 20080218
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "119.148.128.0",
+    "EndIP": "119.148.159.255",
+    "Prefix": "/19",
+    "AllocationDate": 20080218
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "119.149.0.0",
+    "EndIP": "119.149.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20080218
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "119.161.0.0",
+    "EndIP": "119.161.31.255",
+    "Prefix": "/19",
+    "AllocationDate": 20080222
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.229.156.0",
+    "EndIP": "103.229.159.255",
+    "Prefix": "/22",
+    "AllocationDate": 20140416
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.237.20.0",
+    "EndIP": "103.237.23.255",
+    "Prefix": "/22",
+    "AllocationDate": 20140710
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "103.241.76.0",
+    "EndIP": "103.241.79.255",
+    "Prefix": "/22",
+    "AllocationDate": 20130828
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "152.99.0.0",
+    "EndIP": "152.99.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 19910906
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "154.10.0.0",
+    "EndIP": "154.10.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 19960513
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "134.75.0.0",
+    "EndIP": "134.75.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 19890510
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "143.248.0.0",
+    "EndIP": "143.248.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 19901026
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "144.48.40.0",
+    "EndIP": "144.48.43.255",
+    "Prefix": "/22",
+    "AllocationDate": 20160407
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "175.192.0.0",
+    "EndIP": "175.255.255.255",
+    "Prefix": "/10",
+    "AllocationDate": 20100127
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "180.64.0.0",
+    "EndIP": "180.71.255.255",
+    "Prefix": "/13",
+    "AllocationDate": 20090707
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "180.80.0.0",
+    "EndIP": "180.83.255.255",
+    "Prefix": "/14",
+    "AllocationDate": 20090716
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "180.92.64.0",
+    "EndIP": "180.92.127.255",
+    "Prefix": "/18",
+    "AllocationDate": 20090723
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "180.92.240.0",
+    "EndIP": "180.92.255.255",
+    "Prefix": "/20",
+    "AllocationDate": 20090728
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "158.44.0.0",
+    "EndIP": "158.44.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 19920210
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "165.213.0.0",
+    "EndIP": "165.213.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 19930901
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "165.229.0.0",
+    "EndIP": "165.229.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 19930922
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "165.243.0.0",
+    "EndIP": "165.243.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 19931006
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "165.244.0.0",
+    "EndIP": "165.244.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 19931006
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "165.246.0.0",
+    "EndIP": "165.246.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 19931007
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "166.79.0.0",
+    "EndIP": "166.79.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 19931105
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "166.103.0.0",
+    "EndIP": "166.103.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 19931203
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "166.104.0.0",
+    "EndIP": "166.104.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 19931203
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "166.125.0.0",
+    "EndIP": "166.125.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 19940104
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "168.78.0.0",
+    "EndIP": "168.78.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 19940214
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "168.115.0.0",
+    "EndIP": "168.115.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 19940328
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "168.126.0.0",
+    "EndIP": "168.126.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 19940420
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "168.131.0.0",
+    "EndIP": "168.131.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 19940425
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "168.154.0.0",
+    "EndIP": "168.154.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 19940406
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "168.188.0.0",
+    "EndIP": "168.188.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 19940607
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "168.219.0.0",
+    "EndIP": "168.219.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 19940728
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "168.248.0.0",
+    "EndIP": "168.249.255.255",
+    "Prefix": "/15",
+    "AllocationDate": 19941017
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "169.140.0.0",
+    "EndIP": "169.140.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 19941108
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "169.208.0.0",
+    "EndIP": "169.223.255.255",
+    "Prefix": "/12",
+    "AllocationDate": 19990309
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "180.222.220.0",
+    "EndIP": "180.222.223.255",
+    "Prefix": "/22",
+    "AllocationDate": 20091021
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "180.224.0.0",
+    "EndIP": "180.231.255.255",
+    "Prefix": "/13",
+    "AllocationDate": 20091009
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "180.233.192.0",
+    "EndIP": "180.233.255.255",
+    "Prefix": "/18",
+    "AllocationDate": 20091023
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "180.236.0.0",
+    "EndIP": "180.239.255.255",
+    "Prefix": "/14",
+    "AllocationDate": 20091026
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "182.252.0.0",
+    "EndIP": "182.252.63.255",
+    "Prefix": "/18",
+    "AllocationDate": 20100506
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "182.252.128.0",
+    "EndIP": "182.252.255.255",
+    "Prefix": "/17",
+    "AllocationDate": 20100507
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "182.255.128.0",
+    "EndIP": "182.255.255.255",
+    "Prefix": "/17",
+    "AllocationDate": 20100511
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "183.78.128.0",
+    "EndIP": "183.78.159.255",
+    "Prefix": "/19",
+    "AllocationDate": 20091105
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "183.78.192.0",
+    "EndIP": "183.78.255.255",
+    "Prefix": "/18",
+    "AllocationDate": 20091105
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "183.86.192.0",
+    "EndIP": "183.86.255.255",
+    "Prefix": "/18",
+    "AllocationDate": 20091117
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "121.127.64.0",
+    "EndIP": "121.127.127.255",
+    "Prefix": "/18",
+    "AllocationDate": 20060525
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "121.127.128.0",
+    "EndIP": "121.127.191.255",
+    "Prefix": "/18",
+    "AllocationDate": 20060526
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "121.128.0.0",
+    "EndIP": "121.159.255.255",
+    "Prefix": "/11",
+    "AllocationDate": 20060407
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "121.160.0.0",
+    "EndIP": "121.191.255.255",
+    "Prefix": "/11",
+    "AllocationDate": 20061101
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "121.200.64.0",
+    "EndIP": "121.200.127.255",
+    "Prefix": "/18",
+    "AllocationDate": 20060719
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "121.252.0.0",
+    "EndIP": "121.253.255.255",
+    "Prefix": "/15",
+    "AllocationDate": 20060926
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "121.254.0.0",
+    "EndIP": "121.254.63.255",
+    "Prefix": "/18",
+    "AllocationDate": 20060719
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "121.254.128.0",
+    "EndIP": "121.254.255.255",
+    "Prefix": "/17",
+    "AllocationDate": 20060529
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "122.0.8.0",
+    "EndIP": "122.0.15.255",
+    "Prefix": "/21",
+    "AllocationDate": 20060926
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "122.0.32.0",
+    "EndIP": "122.0.63.255",
+    "Prefix": "/19",
+    "AllocationDate": 20061011
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "122.32.0.0",
+    "EndIP": "122.47.255.255",
+    "Prefix": "/12",
+    "AllocationDate": 20060724
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "122.252.64.0",
+    "EndIP": "122.252.127.255",
+    "Prefix": "/18",
+    "AllocationDate": 20061113
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "122.252.192.0",
+    "EndIP": "122.252.223.255",
+    "Prefix": "/19",
+    "AllocationDate": 20061116
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "122.254.128.0",
+    "EndIP": "122.254.255.255",
+    "Prefix": "/17",
+    "AllocationDate": 20060609
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "123.0.0.0",
+    "EndIP": "123.0.15.255",
+    "Prefix": "/20",
+    "AllocationDate": 20061227
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "123.32.0.0",
+    "EndIP": "123.47.255.255",
+    "Prefix": "/12",
+    "AllocationDate": 20070115
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "124.28.128.0",
+    "EndIP": "124.28.191.255",
+    "Prefix": "/18",
+    "AllocationDate": 20060103
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "124.46.0.0",
+    "EndIP": "124.46.127.255",
+    "Prefix": "/17",
+    "AllocationDate": 20060117
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "124.46.128.0",
+    "EndIP": "124.46.255.255",
+    "Prefix": "/17",
+    "AllocationDate": 20060118
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "124.48.0.0",
+    "EndIP": "124.63.255.255",
+    "Prefix": "/12",
+    "AllocationDate": 20051221
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "124.66.176.0",
+    "EndIP": "124.66.191.255",
+    "Prefix": "/20",
+    "AllocationDate": 20080416
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "124.66.208.0",
+    "EndIP": "124.66.223.255",
+    "Prefix": "/20",
+    "AllocationDate": 20110114
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "124.80.0.0",
+    "EndIP": "124.80.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20060127
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "125.57.0.0",
+    "EndIP": "125.57.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20050823
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "125.60.0.0",
+    "EndIP": "125.60.63.255",
+    "Prefix": "/18",
+    "AllocationDate": 20050830
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "125.60.64.0",
+    "EndIP": "125.60.127.255",
+    "Prefix": "/18",
+    "AllocationDate": 20050902
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "125.61.0.0",
+    "EndIP": "125.61.127.255",
+    "Prefix": "/17",
+    "AllocationDate": 20050906
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "125.62.216.0",
+    "EndIP": "125.62.223.255",
+    "Prefix": "/21",
+    "AllocationDate": 20110106
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "125.128.0.0",
+    "EndIP": "125.159.255.255",
+    "Prefix": "/11",
+    "AllocationDate": 20050823
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "125.176.0.0",
+    "EndIP": "125.191.255.255",
+    "Prefix": "/12",
+    "AllocationDate": 20050912
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "125.208.64.0",
+    "EndIP": "125.208.127.255",
+    "Prefix": "/18",
+    "AllocationDate": 20051012
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "125.208.192.0",
+    "EndIP": "125.208.223.255",
+    "Prefix": "/19",
+    "AllocationDate": 20070103
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "125.208.224.0",
+    "EndIP": "125.208.255.255",
+    "Prefix": "/19",
+    "AllocationDate": 20071203
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "125.209.0.0",
+    "EndIP": "125.209.63.255",
+    "Prefix": "/18",
+    "AllocationDate": 20051018
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "125.209.192.0",
+    "EndIP": "125.209.255.255",
+    "Prefix": "/18",
+    "AllocationDate": 20101118
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "137.68.0.0",
+    "EndIP": "137.68.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 19891106
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "144.48.44.0",
+    "EndIP": "144.48.47.255",
+    "Prefix": "/22",
+    "AllocationDate": 20160407
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "144.48.92.0",
+    "EndIP": "144.48.95.255",
+    "Prefix": "/22",
+    "AllocationDate": 20160411
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "144.48.100.0",
+    "EndIP": "144.48.103.255",
+    "Prefix": "/22",
+    "AllocationDate": 20160411
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "150.107.68.0",
+    "EndIP": "150.107.71.255",
+    "Prefix": "/22",
+    "AllocationDate": 20140619
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "150.107.80.0",
+    "EndIP": "150.107.83.255",
+    "Prefix": "/22",
+    "AllocationDate": 20140619
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "150.107.84.0",
+    "EndIP": "150.107.87.255",
+    "Prefix": "/22",
+    "AllocationDate": 20140619
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "155.230.0.0",
+    "EndIP": "155.230.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 19911127
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "156.147.0.0",
+    "EndIP": "156.147.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 19920205
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "160.202.160.0",
+    "EndIP": "160.202.163.255",
+    "Prefix": "/22",
+    "AllocationDate": 20160401
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "160.202.172.0",
+    "EndIP": "160.202.175.255",
+    "Prefix": "/22",
+    "AllocationDate": 20160401
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "160.202.176.0",
+    "EndIP": "160.202.179.255",
+    "Prefix": "/22",
+    "AllocationDate": 20160401
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "163.53.156.0",
+    "EndIP": "163.53.159.255",
+    "Prefix": "/22",
+    "AllocationDate": 20140710
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "175.28.32.0",
+    "EndIP": "175.28.47.255",
+    "Prefix": "/20",
+    "AllocationDate": 20091210
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "175.41.0.0",
+    "EndIP": "175.41.15.255",
+    "Prefix": "/20",
+    "AllocationDate": 20091214
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "180.131.0.0",
+    "EndIP": "180.131.63.255",
+    "Prefix": "/18",
+    "AllocationDate": 20090820
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "180.132.0.0",
+    "EndIP": "180.135.255.255",
+    "Prefix": "/14",
+    "AllocationDate": 20090813
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "180.148.180.0",
+    "EndIP": "180.148.183.255",
+    "Prefix": "/22",
+    "AllocationDate": 20110202
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "182.31.0.0",
+    "EndIP": "182.31.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20110113
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "182.50.16.0",
+    "EndIP": "182.50.31.255",
+    "Prefix": "/20",
+    "AllocationDate": 20100223
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "182.50.32.0",
+    "EndIP": "182.50.63.255",
+    "Prefix": "/19",
+    "AllocationDate": 20100223
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "183.90.128.0",
+    "EndIP": "183.90.159.255",
+    "Prefix": "/19",
+    "AllocationDate": 20091118
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "183.91.192.0",
+    "EndIP": "183.91.255.255",
+    "Prefix": "/18",
+    "AllocationDate": 20091125
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "183.96.0.0",
+    "EndIP": "183.127.255.255",
+    "Prefix": "/11",
+    "AllocationDate": 20091104
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "192.100.2.0",
+    "EndIP": "192.100.2.255",
+    "Prefix": "/24",
+    "AllocationDate": 19910311
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "192.104.15.0",
+    "EndIP": "192.104.15.255",
+    "Prefix": "/24",
+    "AllocationDate": 19910328
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "192.132.15.0",
+    "EndIP": "192.132.15.255",
+    "Prefix": "/24",
+    "AllocationDate": 19911106
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "122.49.64.0",
+    "EndIP": "122.49.127.255",
+    "Prefix": "/18",
+    "AllocationDate": 20060605
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "122.99.128.0",
+    "EndIP": "122.99.255.255",
+    "Prefix": "/17",
+    "AllocationDate": 20060605
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "122.100.32.0",
+    "EndIP": "122.100.63.255",
+    "Prefix": "/19",
+    "AllocationDate": 20061012
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "122.101.0.0",
+    "EndIP": "122.101.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20060727
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "123.98.160.0",
+    "EndIP": "123.98.191.255",
+    "Prefix": "/19",
+    "AllocationDate": 20061124
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "123.98.192.0",
+    "EndIP": "123.98.223.255",
+    "Prefix": "/19",
+    "AllocationDate": 20061124
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "123.99.64.0",
+    "EndIP": "123.99.127.255",
+    "Prefix": "/18",
+    "AllocationDate": 20060609
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "123.100.160.0",
+    "EndIP": "123.100.191.255",
+    "Prefix": "/19",
+    "AllocationDate": 20110106
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "123.108.16.0",
+    "EndIP": "123.108.31.255",
+    "Prefix": "/20",
+    "AllocationDate": 20070201
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "123.108.160.0",
+    "EndIP": "123.108.191.255",
+    "Prefix": "/19",
+    "AllocationDate": 20070209
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "123.109.0.0",
+    "EndIP": "123.109.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20070202
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "123.111.0.0",
+    "EndIP": "123.111.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20070209
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "124.111.0.0",
+    "EndIP": "124.111.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20060228
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "124.136.0.0",
+    "EndIP": "124.139.255.255",
+    "Prefix": "/14",
+    "AllocationDate": 20060301
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "124.146.0.0",
+    "EndIP": "124.146.63.255",
+    "Prefix": "/18",
+    "AllocationDate": 20060303
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "124.153.128.0",
+    "EndIP": "124.153.255.255",
+    "Prefix": "/17",
+    "AllocationDate": 20070614
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "125.240.0.0",
+    "EndIP": "125.247.255.255",
+    "Prefix": "/13",
+    "AllocationDate": 20051025
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "125.248.0.0",
+    "EndIP": "125.251.255.255",
+    "Prefix": "/14",
+    "AllocationDate": 20051025
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "125.252.0.0",
+    "EndIP": "125.252.63.255",
+    "Prefix": "/18",
+    "AllocationDate": 20051101
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "139.5.224.0",
+    "EndIP": "139.5.227.255",
+    "Prefix": "/22",
+    "AllocationDate": 20160330
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "139.150.0.0",
+    "EndIP": "139.150.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20110309
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "146.88.84.0",
+    "EndIP": "146.88.87.255",
+    "Prefix": "/22",
+    "AllocationDate": 19910128
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "147.6.0.0",
+    "EndIP": "147.6.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 19910312
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "147.43.0.0",
+    "EndIP": "147.43.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 19910621
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "150.129.224.0",
+    "EndIP": "150.129.227.255",
+    "Prefix": "/22",
+    "AllocationDate": 20140701
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "150.150.0.0",
+    "EndIP": "150.150.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 19970827
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "150.183.0.0",
+    "EndIP": "150.183.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 19910530
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "150.197.0.0",
+    "EndIP": "150.197.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 19910607
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "157.119.32.0",
+    "EndIP": "157.119.35.255",
+    "Prefix": "/22",
+    "AllocationDate": 20160422
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "157.119.36.0",
+    "EndIP": "157.119.39.255",
+    "Prefix": "/22",
+    "AllocationDate": 20160422
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "163.152.0.0",
+    "EndIP": "163.152.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 19920731
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "163.180.0.0",
+    "EndIP": "163.180.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 19920811
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "163.213.0.0",
+    "EndIP": "163.213.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20110405
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "163.222.0.0",
+    "EndIP": "163.222.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20110405
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "175.45.160.0",
+    "EndIP": "175.45.167.255",
+    "Prefix": "/21",
+    "AllocationDate": 20091218
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "180.150.192.0",
+    "EndIP": "180.150.223.255",
+    "Prefix": "/19",
+    "AllocationDate": 20090907
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "180.150.224.0",
+    "EndIP": "180.150.231.255",
+    "Prefix": "/21",
+    "AllocationDate": 20090909
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "180.182.0.0",
+    "EndIP": "180.182.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20090915
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "182.161.96.0",
+    "EndIP": "182.161.127.255",
+    "Prefix": "/19",
+    "AllocationDate": 20100409
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "182.161.128.0",
+    "EndIP": "182.161.255.255",
+    "Prefix": "/17",
+    "AllocationDate": 20100406
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "182.162.0.0",
+    "EndIP": "182.162.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20100406
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "182.163.128.0",
+    "EndIP": "182.163.255.255",
+    "Prefix": "/17",
+    "AllocationDate": 20100407
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "192.5.90.0",
+    "EndIP": "192.5.90.255",
+    "Prefix": "/24",
+    "AllocationDate": 19890105
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "192.132.247.0",
+    "EndIP": "192.132.247.255",
+    "Prefix": "/24",
+    "AllocationDate": 19911126
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "122.128.32.0",
+    "EndIP": "122.128.63.255",
+    "Prefix": "/19",
+    "AllocationDate": 20061213
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "122.128.64.0",
+    "EndIP": "122.128.79.255",
+    "Prefix": "/20",
+    "AllocationDate": 20061213
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "122.128.128.0",
+    "EndIP": "122.128.191.255",
+    "Prefix": "/18",
+    "AllocationDate": 20061213
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "122.128.192.0",
+    "EndIP": "122.128.255.255",
+    "Prefix": "/18",
+    "AllocationDate": 20061215
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "122.129.208.0",
+    "EndIP": "122.129.215.255",
+    "Prefix": "/21",
+    "AllocationDate": 20061221
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "122.129.240.0",
+    "EndIP": "122.129.247.255",
+    "Prefix": "/21",
+    "AllocationDate": 20061227
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "122.129.248.0",
+    "EndIP": "122.129.255.255",
+    "Prefix": "/21",
+    "AllocationDate": 20070323
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "123.140.0.0",
+    "EndIP": "123.143.255.255",
+    "Prefix": "/14",
+    "AllocationDate": 20070222
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "123.199.0.0",
+    "EndIP": "123.199.127.255",
+    "Prefix": "/17",
+    "AllocationDate": 20061110
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "123.200.64.0",
+    "EndIP": "123.200.127.255",
+    "Prefix": "/18",
+    "AllocationDate": 20061012
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "123.212.0.0",
+    "EndIP": "123.215.255.255",
+    "Prefix": "/14",
+    "AllocationDate": 20070209
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "123.228.0.0",
+    "EndIP": "123.229.255.255",
+    "Prefix": "/15",
+    "AllocationDate": 20070213
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "124.194.0.0",
+    "EndIP": "124.194.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20060404
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "124.195.160.0",
+    "EndIP": "124.195.191.255",
+    "Prefix": "/19",
+    "AllocationDate": 20080417
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "124.195.224.0",
+    "EndIP": "124.195.255.255",
+    "Prefix": "/19",
+    "AllocationDate": 20080418
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "124.197.128.0",
+    "EndIP": "124.197.191.255",
+    "Prefix": "/18",
+    "AllocationDate": 20060418
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "124.197.192.0",
+    "EndIP": "124.197.223.255",
+    "Prefix": "/19",
+    "AllocationDate": 20060418
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "124.198.0.0",
+    "EndIP": "124.198.127.255",
+    "Prefix": "/17",
+    "AllocationDate": 20060418
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "124.199.0.0",
+    "EndIP": "124.199.63.255",
+    "Prefix": "/18",
+    "AllocationDate": 20060127
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "124.199.128.0",
+    "EndIP": "124.199.255.255",
+    "Prefix": "/17",
+    "AllocationDate": 20051228
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "124.216.0.0",
+    "EndIP": "124.216.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20060418
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "124.217.192.0",
+    "EndIP": "124.217.223.255",
+    "Prefix": "/19",
+    "AllocationDate": 20071102
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "128.134.0.0",
+    "EndIP": "128.134.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 19860630
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "129.254.0.0",
+    "EndIP": "129.254.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 19880408
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "141.223.0.0",
+    "EndIP": "141.223.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 19900803
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "150.242.132.0",
+    "EndIP": "150.242.135.255",
+    "Prefix": "/22",
+    "AllocationDate": 20140704
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "150.242.144.0",
+    "EndIP": "150.242.147.255",
+    "Prefix": "/22",
+    "AllocationDate": 20140704
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "157.197.0.0",
+    "EndIP": "157.197.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 19920324
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "161.122.0.0",
+    "EndIP": "161.122.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 19920714
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "163.229.0.0",
+    "EndIP": "163.229.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20110405
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "163.239.0.0",
+    "EndIP": "163.239.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 19920915
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "163.255.0.0",
+    "EndIP": "163.255.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20110405
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "164.124.0.0",
+    "EndIP": "164.124.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 19930301
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "164.125.0.0",
+    "EndIP": "164.125.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 19930211
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "165.132.0.0",
+    "EndIP": "165.132.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 19930607
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "165.133.0.0",
+    "EndIP": "165.133.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 19930608
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "165.186.0.0",
+    "EndIP": "165.186.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 19960820
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "165.194.0.0",
+    "EndIP": "165.194.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 19930812
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "175.107.64.0",
+    "EndIP": "175.107.127.255",
+    "Prefix": "/18",
+    "AllocationDate": 20100112
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "175.111.16.0",
+    "EndIP": "175.111.31.255",
+    "Prefix": "/20",
+    "AllocationDate": 20100113
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "175.112.0.0",
+    "EndIP": "175.127.255.255",
+    "Prefix": "/12",
+    "AllocationDate": 20091217
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "175.158.0.0",
+    "EndIP": "175.158.31.255",
+    "Prefix": "/19",
+    "AllocationDate": 20100118
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "175.176.128.0",
+    "EndIP": "175.176.143.255",
+    "Prefix": "/20",
+    "AllocationDate": 20100120
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "180.189.64.0",
+    "EndIP": "180.189.127.255",
+    "Prefix": "/18",
+    "AllocationDate": 20090917
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "180.189.176.0",
+    "EndIP": "180.189.191.255",
+    "Prefix": "/20",
+    "AllocationDate": 20090923
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "180.210.0.0",
+    "EndIP": "180.210.127.255",
+    "Prefix": "/17",
+    "AllocationDate": 20090925
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "180.210.192.0",
+    "EndIP": "180.210.199.255",
+    "Prefix": "/21",
+    "AllocationDate": 20090928
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "180.211.0.0",
+    "EndIP": "180.211.63.255",
+    "Prefix": "/18",
+    "AllocationDate": 20090930
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "182.172.0.0",
+    "EndIP": "182.172.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20100409
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "182.173.80.0",
+    "EndIP": "182.173.95.255",
+    "Prefix": "/20",
+    "AllocationDate": 20100413
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "182.173.96.0",
+    "EndIP": "182.173.127.255",
+    "Prefix": "/19",
+    "AllocationDate": 20100413
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "182.192.0.0",
+    "EndIP": "182.199.255.255",
+    "Prefix": "/13",
+    "AllocationDate": 20100414
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "182.208.0.0",
+    "EndIP": "182.223.255.255",
+    "Prefix": "/12",
+    "AllocationDate": 20100422
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "182.224.0.0",
+    "EndIP": "182.231.255.255",
+    "Prefix": "/13",
+    "AllocationDate": 20100422
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "182.237.32.0",
+    "EndIP": "182.237.63.255",
+    "Prefix": "/19",
+    "AllocationDate": 20100504
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "182.237.64.0",
+    "EndIP": "182.237.127.255",
+    "Prefix": "/18",
+    "AllocationDate": 20100504
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "182.237.192.0",
+    "EndIP": "182.237.255.255",
+    "Prefix": "/18",
+    "AllocationDate": 20100505
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "121.64.0.0",
+    "EndIP": "121.67.255.255",
+    "Prefix": "/14",
+    "AllocationDate": 20060609
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "121.78.0.0",
+    "EndIP": "121.78.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20060620
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "121.88.0.0",
+    "EndIP": "121.88.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20060626
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "121.100.64.0",
+    "EndIP": "121.100.127.255",
+    "Prefix": "/18",
+    "AllocationDate": 20060711
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "121.101.192.0",
+    "EndIP": "121.101.207.255",
+    "Prefix": "/20",
+    "AllocationDate": 20071119
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "121.101.224.0",
+    "EndIP": "121.101.255.255",
+    "Prefix": "/19",
+    "AllocationDate": 20071120
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "121.124.0.0",
+    "EndIP": "121.125.255.255",
+    "Prefix": "/15",
+    "AllocationDate": 20060802
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "121.126.0.0",
+    "EndIP": "121.126.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20060706
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "122.152.96.0",
+    "EndIP": "122.152.127.255",
+    "Prefix": "/19",
+    "AllocationDate": 20101230
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "122.153.0.0",
+    "EndIP": "122.153.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20070115
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "122.199.64.0",
+    "EndIP": "122.199.127.255",
+    "Prefix": "/18",
+    "AllocationDate": 20060607
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "122.199.128.0",
+    "EndIP": "122.199.255.255",
+    "Prefix": "/17",
+    "AllocationDate": 20060606
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "122.202.32.0",
+    "EndIP": "122.202.63.255",
+    "Prefix": "/19",
+    "AllocationDate": 20061106
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "122.202.128.0",
+    "EndIP": "122.202.255.255",
+    "Prefix": "/17",
+    "AllocationDate": 20061106
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "122.203.0.0",
+    "EndIP": "122.203.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20061106
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "123.248.0.0",
+    "EndIP": "123.248.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20070125
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "123.250.0.0",
+    "EndIP": "123.251.255.255",
+    "Prefix": "/15",
+    "AllocationDate": 20070129
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "123.254.64.0",
+    "EndIP": "123.254.95.255",
+    "Prefix": "/19",
+    "AllocationDate": 20061121
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "123.254.128.0",
+    "EndIP": "123.254.255.255",
+    "Prefix": "/17",
+    "AllocationDate": 20060619
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "124.0.0.0",
+    "EndIP": "124.1.255.255",
+    "Prefix": "/15",
+    "AllocationDate": 20051104
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "124.2.0.0",
+    "EndIP": "124.2.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20051214
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "124.3.0.0",
+    "EndIP": "124.3.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20070212
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "124.5.0.0",
+    "EndIP": "124.5.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20051116
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "124.28.0.0",
+    "EndIP": "124.28.127.255",
+    "Prefix": "/17",
+    "AllocationDate": 20060103
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "124.243.0.0",
+    "EndIP": "124.243.127.255",
+    "Prefix": "/17",
+    "AllocationDate": 20060509
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "124.254.128.0",
+    "EndIP": "124.254.255.255",
+    "Prefix": "/17",
+    "AllocationDate": 20051230
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "125.7.128.0",
+    "EndIP": "125.7.191.255",
+    "Prefix": "/18",
+    "AllocationDate": 20050817
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "125.7.192.0",
+    "EndIP": "125.7.255.255",
+    "Prefix": "/18",
+    "AllocationDate": 20050817
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "125.31.128.0",
+    "EndIP": "125.31.191.255",
+    "Prefix": "/18",
+    "AllocationDate": 20050819
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "202.150.176.0",
+    "EndIP": "202.150.191.255",
+    "Prefix": "/20",
+    "AllocationDate": 20050808
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "202.131.24.0",
+    "EndIP": "202.131.31.255",
+    "Prefix": "/21",
+    "AllocationDate": 20060908
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "202.133.16.0",
+    "EndIP": "202.133.31.255",
+    "Prefix": "/20",
+    "AllocationDate": 20050324
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "192.245.249.0",
+    "EndIP": "192.245.249.255",
+    "Prefix": "/24",
+    "AllocationDate": 19931110
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "192.245.250.0",
+    "EndIP": "192.245.250.255",
+    "Prefix": "/24",
+    "AllocationDate": 19921127
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "192.245.251.0",
+    "EndIP": "192.245.251.255",
+    "Prefix": "/24",
+    "AllocationDate": 19921127
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "202.20.82.0",
+    "EndIP": "202.20.82.255",
+    "Prefix": "/24",
+    "AllocationDate": 19930826
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "202.20.83.0",
+    "EndIP": "202.20.83.255",
+    "Prefix": "/24",
+    "AllocationDate": 19930826
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "202.20.86.0",
+    "EndIP": "202.20.86.255",
+    "Prefix": "/24",
+    "AllocationDate": 19930826
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "202.20.99.0",
+    "EndIP": "202.20.99.255",
+    "Prefix": "/24",
+    "AllocationDate": 19930922
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "202.20.119.0",
+    "EndIP": "202.20.119.255",
+    "Prefix": "/24",
+    "AllocationDate": 19931006
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "202.20.128.0",
+    "EndIP": "202.20.255.255",
+    "Prefix": "/17",
+    "AllocationDate": 19930901
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "202.21.0.0",
+    "EndIP": "202.21.7.255",
+    "Prefix": "/21",
+    "AllocationDate": 19930901
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "202.43.48.0",
+    "EndIP": "202.43.55.255",
+    "Prefix": "/21",
+    "AllocationDate": 20070110
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "202.43.56.0",
+    "EndIP": "202.43.63.255",
+    "Prefix": "/21",
+    "AllocationDate": 20080226
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "202.68.224.0",
+    "EndIP": "202.68.255.255",
+    "Prefix": "/19",
+    "AllocationDate": 20060814
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "202.93.6.0",
+    "EndIP": "202.93.7.255",
+    "Prefix": "/23",
+    "AllocationDate": 20060830
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "202.136.112.0",
+    "EndIP": "202.136.127.255",
+    "Prefix": "/20",
+    "AllocationDate": 20050414
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "202.136.128.0",
+    "EndIP": "202.136.159.255",
+    "Prefix": "/19",
+    "AllocationDate": 20051104
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "202.158.144.0",
+    "EndIP": "202.158.159.255",
+    "Prefix": "/20",
+    "AllocationDate": 20050829
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "192.195.39.0",
+    "EndIP": "192.195.39.255",
+    "Prefix": "/24",
+    "AllocationDate": 19920715
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "192.195.40.0",
+    "EndIP": "192.195.40.255",
+    "Prefix": "/24",
+    "AllocationDate": 19920715
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "192.249.16.0",
+    "EndIP": "192.249.23.255",
+    "Prefix": "/21",
+    "AllocationDate": 19921112
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "192.249.24.0",
+    "EndIP": "192.249.25.255",
+    "Prefix": "/23",
+    "AllocationDate": 19991116
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "192.249.26.0",
+    "EndIP": "192.249.27.255",
+    "Prefix": "/23",
+    "AllocationDate": 19921112
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "192.249.28.0",
+    "EndIP": "192.249.31.255",
+    "Prefix": "/22",
+    "AllocationDate": 19921112
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "198.148.192.0",
+    "EndIP": "198.148.195.255",
+    "Prefix": "/22",
+    "AllocationDate": 19930802
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "202.6.95.0",
+    "EndIP": "202.6.95.255",
+    "Prefix": "/24",
+    "AllocationDate": 19930223
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "202.22.32.0",
+    "EndIP": "202.22.63.255",
+    "Prefix": "/19",
+    "AllocationDate": 20060809
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "202.59.216.0",
+    "EndIP": "202.59.223.255",
+    "Prefix": "/21",
+    "AllocationDate": 20110407
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "202.86.8.0",
+    "EndIP": "202.86.15.255",
+    "Prefix": "/21",
+    "AllocationDate": 20050131
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "202.126.112.0",
+    "EndIP": "202.126.119.255",
+    "Prefix": "/21",
+    "AllocationDate": 20050308
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "202.128.100.0",
+    "EndIP": "202.128.101.255",
+    "Prefix": "/23",
+    "AllocationDate": 20100419
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "202.163.128.0",
+    "EndIP": "202.163.159.255",
+    "Prefix": "/19",
+    "AllocationDate": 20060307
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "202.165.56.0",
+    "EndIP": "202.165.59.255",
+    "Prefix": "/22",
+    "AllocationDate": 20071122
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "192.203.138.0",
+    "EndIP": "192.203.138.255",
+    "Prefix": "/24",
+    "AllocationDate": 19920910
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "192.203.139.0",
+    "EndIP": "192.203.139.255",
+    "Prefix": "/24",
+    "AllocationDate": 19920910
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "192.203.140.0",
+    "EndIP": "192.203.143.255",
+    "Prefix": "/22",
+    "AllocationDate": 19971017
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "192.203.144.0",
+    "EndIP": "192.203.144.255",
+    "Prefix": "/24",
+    "AllocationDate": 19920910
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "192.203.145.0",
+    "EndIP": "192.203.145.255",
+    "Prefix": "/24",
+    "AllocationDate": 19920910
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "192.203.146.0",
+    "EndIP": "192.203.146.255",
+    "Prefix": "/24",
+    "AllocationDate": 19920910
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "202.14.90.0",
+    "EndIP": "202.14.91.255",
+    "Prefix": "/23",
+    "AllocationDate": 20110113
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "202.14.103.0",
+    "EndIP": "202.14.103.255",
+    "Prefix": "/24",
+    "AllocationDate": 19930611
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "202.14.165.0",
+    "EndIP": "202.14.165.255",
+    "Prefix": "/24",
+    "AllocationDate": 19930804
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "202.47.143.0",
+    "EndIP": "202.47.143.255",
+    "Prefix": "/24",
+    "AllocationDate": 20060904
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "202.73.132.0",
+    "EndIP": "202.73.135.255",
+    "Prefix": "/22",
+    "AllocationDate": 20050914
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "202.89.124.0",
+    "EndIP": "202.89.127.255",
+    "Prefix": "/22",
+    "AllocationDate": 20090401
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "202.89.248.0",
+    "EndIP": "202.89.251.255",
+    "Prefix": "/22",
+    "AllocationDate": 20060412
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "202.3.16.0",
+    "EndIP": "202.3.31.255",
+    "Prefix": "/20",
+    "AllocationDate": 20110401
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "202.8.160.0",
+    "EndIP": "202.8.191.255",
+    "Prefix": "/19",
+    "AllocationDate": 20110401
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "203.17.226.0",
+    "EndIP": "203.17.226.255",
+    "Prefix": "/24",
+    "AllocationDate": 20071012
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "202.171.248.0",
+    "EndIP": "202.171.251.255",
+    "Prefix": "/22",
+    "AllocationDate": 20061011
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "202.174.88.0",
+    "EndIP": "202.174.91.255",
+    "Prefix": "/22",
+    "AllocationDate": 20080103
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "202.179.176.0",
+    "EndIP": "202.179.183.255",
+    "Prefix": "/21",
+    "AllocationDate": 20051101
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "202.189.128.0",
+    "EndIP": "202.189.128.255",
+    "Prefix": "/24",
+    "AllocationDate": 20010910
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "203.207.16.0",
+    "EndIP": "203.207.31.255",
+    "Prefix": "/20",
+    "AllocationDate": 20060529
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "203.128.160.0",
+    "EndIP": "203.128.191.255",
+    "Prefix": "/19",
+    "AllocationDate": 20050314
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "203.128.192.0",
+    "EndIP": "203.128.223.255",
+    "Prefix": "/19",
+    "AllocationDate": 20050314
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "203.128.236.0",
+    "EndIP": "203.128.239.255",
+    "Prefix": "/22",
+    "AllocationDate": 20080306
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "203.129.6.0",
+    "EndIP": "203.129.7.255",
+    "Prefix": "/23",
+    "AllocationDate": 20070517
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "203.130.64.0",
+    "EndIP": "203.130.95.255",
+    "Prefix": "/19",
+    "AllocationDate": 20060314
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "203.130.96.0",
+    "EndIP": "203.130.127.255",
+    "Prefix": "/19",
+    "AllocationDate": 20050329
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "203.130.176.0",
+    "EndIP": "203.130.191.255",
+    "Prefix": "/20",
+    "AllocationDate": 20060828
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "203.152.160.0",
+    "EndIP": "203.152.191.255",
+    "Prefix": "/19",
+    "AllocationDate": 20050804
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "203.153.144.0",
+    "EndIP": "203.153.159.255",
+    "Prefix": "/20",
+    "AllocationDate": 20060406
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "203.175.32.0",
+    "EndIP": "203.175.63.255",
+    "Prefix": "/19",
+    "AllocationDate": 20051115
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "203.175.188.0",
+    "EndIP": "203.175.191.255",
+    "Prefix": "/22",
+    "AllocationDate": 20090108
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "218.101.128.0",
+    "EndIP": "218.101.255.255",
+    "Prefix": "/17",
+    "AllocationDate": 20040805
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "210.2.32.0",
+    "EndIP": "210.2.63.255",
+    "Prefix": "/19",
+    "AllocationDate": 20060504
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "210.4.88.0",
+    "EndIP": "210.4.95.255",
+    "Prefix": "/21",
+    "AllocationDate": 20070921
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "210.4.216.0",
+    "EndIP": "210.4.223.255",
+    "Prefix": "/21",
+    "AllocationDate": 20070921
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "210.57.224.0",
+    "EndIP": "210.57.255.255",
+    "Prefix": "/19",
+    "AllocationDate": 20060613
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "210.216.0.0",
+    "EndIP": "210.216.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 19990323
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "210.218.128.0",
+    "EndIP": "210.218.191.255",
+    "Prefix": "/18",
+    "AllocationDate": 19990323
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "210.218.192.0",
+    "EndIP": "210.218.223.255",
+    "Prefix": "/19",
+    "AllocationDate": 19990323
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "210.218.224.0",
+    "EndIP": "210.218.255.255",
+    "Prefix": "/19",
+    "AllocationDate": 19990323
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "210.220.64.0",
+    "EndIP": "210.220.95.255",
+    "Prefix": "/19",
+    "AllocationDate": 19990525
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "210.220.96.0",
+    "EndIP": "210.220.127.255",
+    "Prefix": "/19",
+    "AllocationDate": 19990525
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "210.222.0.0",
+    "EndIP": "210.223.255.255",
+    "Prefix": "/15",
+    "AllocationDate": 19990525
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "223.222.0.0",
+    "EndIP": "223.222.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20100721
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "220.149.0.0",
+    "EndIP": "220.149.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20040616
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "221.138.0.0",
+    "EndIP": "221.139.255.255",
+    "Prefix": "/15",
+    "AllocationDate": 20030530
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "221.140.0.0",
+    "EndIP": "221.143.255.255",
+    "Prefix": "/14",
+    "AllocationDate": 20030530
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "221.144.0.0",
+    "EndIP": "221.159.255.255",
+    "Prefix": "/12",
+    "AllocationDate": 20030417
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "221.160.0.0",
+    "EndIP": "221.167.255.255",
+    "Prefix": "/13",
+    "AllocationDate": 20030417
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "221.168.0.0",
+    "EndIP": "221.168.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20030417
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "223.253.0.0",
+    "EndIP": "223.253.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20100728
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "203.82.219.0",
+    "EndIP": "203.82.219.255",
+    "Prefix": "/24",
+    "AllocationDate": 20080201
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "203.82.220.0",
+    "EndIP": "203.82.221.255",
+    "Prefix": "/23",
+    "AllocationDate": 20080129
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "203.82.240.0",
+    "EndIP": "203.82.247.255",
+    "Prefix": "/21",
+    "AllocationDate": 20050601
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "203.83.128.0",
+    "EndIP": "203.83.159.255",
+    "Prefix": "/19",
+    "AllocationDate": 20041019
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "203.100.160.0",
+    "EndIP": "203.100.191.255",
+    "Prefix": "/19",
+    "AllocationDate": 20050125
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "203.132.160.0",
+    "EndIP": "203.132.191.255",
+    "Prefix": "/19",
+    "AllocationDate": 20050414
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "203.133.160.0",
+    "EndIP": "203.133.191.255",
+    "Prefix": "/19",
+    "AllocationDate": 20060712
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "203.142.160.0",
+    "EndIP": "203.142.191.255",
+    "Prefix": "/19",
+    "AllocationDate": 20050726
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "203.142.216.0",
+    "EndIP": "203.142.217.255",
+    "Prefix": "/23",
+    "AllocationDate": 20080306
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "203.160.140.0",
+    "EndIP": "203.160.143.255",
+    "Prefix": "/22",
+    "AllocationDate": 20100312
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "203.210.16.0",
+    "EndIP": "203.210.31.255",
+    "Prefix": "/20",
+    "AllocationDate": 20060531
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "203.210.32.0",
+    "EndIP": "203.210.63.255",
+    "Prefix": "/19",
+    "AllocationDate": 20060127
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "203.212.96.0",
+    "EndIP": "203.212.127.255",
+    "Prefix": "/19",
+    "AllocationDate": 20060202
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "203.212.160.0",
+    "EndIP": "203.212.191.255",
+    "Prefix": "/19",
+    "AllocationDate": 20060207
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "210.16.192.0",
+    "EndIP": "210.16.255.255",
+    "Prefix": "/18",
+    "AllocationDate": 20050215
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "210.80.96.0",
+    "EndIP": "210.80.111.255",
+    "Prefix": "/20",
+    "AllocationDate": 20011019
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "210.80.112.0",
+    "EndIP": "210.80.127.255",
+    "Prefix": "/20",
+    "AllocationDate": 20021031
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "210.87.192.0",
+    "EndIP": "210.87.223.255",
+    "Prefix": "/19",
+    "AllocationDate": 20060619
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "210.89.160.0",
+    "EndIP": "210.89.191.255",
+    "Prefix": "/19",
+    "AllocationDate": 20060623
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "210.90.0.0",
+    "EndIP": "210.91.255.255",
+    "Prefix": "/15",
+    "AllocationDate": 19990324
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "211.32.0.0",
+    "EndIP": "211.32.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 19990827
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "211.36.192.0",
+    "EndIP": "211.36.223.255",
+    "Prefix": "/19",
+    "AllocationDate": 19990827
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "211.36.224.0",
+    "EndIP": "211.36.255.255",
+    "Prefix": "/19",
+    "AllocationDate": 19990827
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "211.40.0.0",
+    "EndIP": "211.40.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 19991108
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "211.42.0.0",
+    "EndIP": "211.42.127.255",
+    "Prefix": "/17",
+    "AllocationDate": 19991118
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "211.42.128.0",
+    "EndIP": "211.42.159.255",
+    "Prefix": "/19",
+    "AllocationDate": 19991118
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "211.42.160.0",
+    "EndIP": "211.42.191.255",
+    "Prefix": "/19",
+    "AllocationDate": 19991118
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "211.42.192.0",
+    "EndIP": "211.42.223.255",
+    "Prefix": "/19",
+    "AllocationDate": 19991118
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "211.42.224.0",
+    "EndIP": "211.42.255.255",
+    "Prefix": "/19",
+    "AllocationDate": 19991118
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "211.44.0.0",
+    "EndIP": "211.44.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 19991118
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "211.45.128.0",
+    "EndIP": "211.45.191.255",
+    "Prefix": "/18",
+    "AllocationDate": 19991118
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "211.45.192.0",
+    "EndIP": "211.45.255.255",
+    "Prefix": "/18",
+    "AllocationDate": 19991118
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "211.50.0.0",
+    "EndIP": "211.50.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 19991118
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "211.51.0.0",
+    "EndIP": "211.51.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 19991118
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "211.53.0.0",
+    "EndIP": "211.53.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20000216
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "211.54.0.0",
+    "EndIP": "211.55.255.255",
+    "Prefix": "/15",
+    "AllocationDate": 20000216
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "211.60.0.0",
+    "EndIP": "211.60.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20000216
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "211.62.0.0",
+    "EndIP": "211.62.127.255",
+    "Prefix": "/17",
+    "AllocationDate": 20000216
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "211.62.128.0",
+    "EndIP": "211.62.255.255",
+    "Prefix": "/17",
+    "AllocationDate": 20000216
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "211.63.0.0",
+    "EndIP": "211.63.31.255",
+    "Prefix": "/19",
+    "AllocationDate": 20000216
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "211.63.32.0",
+    "EndIP": "211.63.63.255",
+    "Prefix": "/19",
+    "AllocationDate": 20000216
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "211.63.128.0",
+    "EndIP": "211.63.255.255",
+    "Prefix": "/17",
+    "AllocationDate": 20000216
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "211.116.0.0",
+    "EndIP": "211.116.63.255",
+    "Prefix": "/18",
+    "AllocationDate": 20000414
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "218.144.0.0",
+    "EndIP": "218.159.255.255",
+    "Prefix": "/12",
+    "AllocationDate": 20010924
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "218.209.0.0",
+    "EndIP": "218.209.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20050714
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "218.232.0.0",
+    "EndIP": "218.233.255.255",
+    "Prefix": "/15",
+    "AllocationDate": 20011122
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "218.234.0.0",
+    "EndIP": "218.235.255.255",
+    "Prefix": "/15",
+    "AllocationDate": 20020430
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "218.236.0.0",
+    "EndIP": "218.239.255.255",
+    "Prefix": "/14",
+    "AllocationDate": 20020430
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "220.230.0.0",
+    "EndIP": "220.230.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20050421
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "222.96.0.0",
+    "EndIP": "222.111.255.255",
+    "Prefix": "/12",
+    "AllocationDate": 20031027
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "222.112.0.0",
+    "EndIP": "222.119.255.255",
+    "Prefix": "/13",
+    "AllocationDate": 20031027
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "222.120.0.0",
+    "EndIP": "222.121.255.255",
+    "Prefix": "/15",
+    "AllocationDate": 20031027
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "222.122.0.0",
+    "EndIP": "222.122.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20031027
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "203.84.240.0",
+    "EndIP": "203.84.255.255",
+    "Prefix": "/20",
+    "AllocationDate": 20060124
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "203.109.0.0",
+    "EndIP": "203.109.31.255",
+    "Prefix": "/19",
+    "AllocationDate": 20050513
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "203.166.208.0",
+    "EndIP": "203.166.215.255",
+    "Prefix": "/21",
+    "AllocationDate": 20061221
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "203.169.4.0",
+    "EndIP": "203.169.5.255",
+    "Prefix": "/23",
+    "AllocationDate": 20070622
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "210.92.0.0",
+    "EndIP": "210.92.63.255",
+    "Prefix": "/18",
+    "AllocationDate": 19980915
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "203.190.4.0",
+    "EndIP": "203.190.7.255",
+    "Prefix": "/22",
+    "AllocationDate": 20110412
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "203.190.26.0",
+    "EndIP": "203.190.27.255",
+    "Prefix": "/23",
+    "AllocationDate": 20080515
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "211.116.64.0",
+    "EndIP": "211.116.127.255",
+    "Prefix": "/18",
+    "AllocationDate": 20000414
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "203.215.192.0",
+    "EndIP": "203.215.223.255",
+    "Prefix": "/19",
+    "AllocationDate": 20060407
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "203.216.160.0",
+    "EndIP": "203.216.191.255",
+    "Prefix": "/19",
+    "AllocationDate": 20060421
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "203.217.192.0",
+    "EndIP": "203.217.255.255",
+    "Prefix": "/18",
+    "AllocationDate": 20060809
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "210.92.64.0",
+    "EndIP": "210.92.127.255",
+    "Prefix": "/18",
+    "AllocationDate": 19980915
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "210.92.128.0",
+    "EndIP": "210.92.255.255",
+    "Prefix": "/17",
+    "AllocationDate": 19980915
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "210.96.0.0",
+    "EndIP": "210.96.127.255",
+    "Prefix": "/17",
+    "AllocationDate": 19980521
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "210.96.128.0",
+    "EndIP": "210.96.255.255",
+    "Prefix": "/17",
+    "AllocationDate": 19980521
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "210.97.0.0",
+    "EndIP": "210.97.127.255",
+    "Prefix": "/17",
+    "AllocationDate": 19980521
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "210.98.128.0",
+    "EndIP": "210.98.191.255",
+    "Prefix": "/18",
+    "AllocationDate": 19980323
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "210.99.0.0",
+    "EndIP": "210.99.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 19980310
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "210.100.0.0",
+    "EndIP": "210.100.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 19971206
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "210.101.128.0",
+    "EndIP": "210.101.191.255",
+    "Prefix": "/18",
+    "AllocationDate": 19971206
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "210.102.0.0",
+    "EndIP": "210.102.31.255",
+    "Prefix": "/19",
+    "AllocationDate": 19971206
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "210.102.32.0",
+    "EndIP": "210.102.63.255",
+    "Prefix": "/19",
+    "AllocationDate": 19971206
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "210.102.128.0",
+    "EndIP": "210.102.255.255",
+    "Prefix": "/17",
+    "AllocationDate": 19971206
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "210.103.0.0",
+    "EndIP": "210.103.127.255",
+    "Prefix": "/17",
+    "AllocationDate": 19971206
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "210.103.128.0",
+    "EndIP": "210.103.191.255",
+    "Prefix": "/18",
+    "AllocationDate": 19971206
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "210.103.192.0",
+    "EndIP": "210.103.223.255",
+    "Prefix": "/19",
+    "AllocationDate": 19971206
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "210.103.224.0",
+    "EndIP": "210.103.255.255",
+    "Prefix": "/19",
+    "AllocationDate": 19971118
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "210.104.0.0",
+    "EndIP": "210.105.255.255",
+    "Prefix": "/15",
+    "AllocationDate": 19970829
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "210.106.128.0",
+    "EndIP": "210.106.191.255",
+    "Prefix": "/18",
+    "AllocationDate": 19970829
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "210.106.192.0",
+    "EndIP": "210.106.223.255",
+    "Prefix": "/19",
+    "AllocationDate": 19970829
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "210.106.224.0",
+    "EndIP": "210.106.255.255",
+    "Prefix": "/19",
+    "AllocationDate": 19970829
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "210.107.0.0",
+    "EndIP": "210.107.127.255",
+    "Prefix": "/17",
+    "AllocationDate": 19970829
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "210.107.128.0",
+    "EndIP": "210.107.255.255",
+    "Prefix": "/17",
+    "AllocationDate": 19970829
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "210.108.0.0",
+    "EndIP": "210.108.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 19970430
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "210.109.0.0",
+    "EndIP": "210.109.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 19970430
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "210.120.0.0",
+    "EndIP": "210.120.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 19961126
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "210.124.0.0",
+    "EndIP": "210.124.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 19960718
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "210.178.0.0",
+    "EndIP": "210.179.255.255",
+    "Prefix": "/15",
+    "AllocationDate": 19981124
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "210.180.0.0",
+    "EndIP": "210.180.31.255",
+    "Prefix": "/19",
+    "AllocationDate": 19981124
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "210.180.32.0",
+    "EndIP": "210.180.63.255",
+    "Prefix": "/19",
+    "AllocationDate": 19981124
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "210.180.128.0",
+    "EndIP": "210.180.191.255",
+    "Prefix": "/18",
+    "AllocationDate": 19981124
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "210.180.192.0",
+    "EndIP": "210.180.223.255",
+    "Prefix": "/19",
+    "AllocationDate": 19981124
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "210.180.224.0",
+    "EndIP": "210.180.255.255",
+    "Prefix": "/19",
+    "AllocationDate": 19981124
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "210.182.0.0",
+    "EndIP": "210.182.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 19981124
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "210.183.0.0",
+    "EndIP": "210.183.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 19981124
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "211.117.0.0",
+    "EndIP": "211.117.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20000414
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "211.176.0.0",
+    "EndIP": "211.179.255.255",
+    "Prefix": "/14",
+    "AllocationDate": 20000526
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "211.192.0.0",
+    "EndIP": "211.199.255.255",
+    "Prefix": "/13",
+    "AllocationDate": 20000526
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "211.200.0.0",
+    "EndIP": "211.200.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20000817
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "211.201.0.0",
+    "EndIP": "211.201.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20000822
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "211.202.0.0",
+    "EndIP": "211.203.255.255",
+    "Prefix": "/15",
+    "AllocationDate": 20000822
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "211.204.0.0",
+    "EndIP": "211.205.255.255",
+    "Prefix": "/15",
+    "AllocationDate": 20000822
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "211.206.0.0",
+    "EndIP": "211.206.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20001222
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "211.207.0.0",
+    "EndIP": "211.207.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20001228
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "211.208.0.0",
+    "EndIP": "211.211.255.255",
+    "Prefix": "/14",
+    "AllocationDate": 20001228
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "211.212.0.0",
+    "EndIP": "211.215.255.255",
+    "Prefix": "/14",
+    "AllocationDate": 20010615
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "211.216.0.0",
+    "EndIP": "211.216.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20000901
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "211.217.0.0",
+    "EndIP": "211.217.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20000912
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "211.218.0.0",
+    "EndIP": "211.219.255.255",
+    "Prefix": "/15",
+    "AllocationDate": 20000912
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "211.220.0.0",
+    "EndIP": "211.223.255.255",
+    "Prefix": "/14",
+    "AllocationDate": 20000912
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "211.224.0.0",
+    "EndIP": "211.225.255.255",
+    "Prefix": "/15",
+    "AllocationDate": 20000912
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "211.226.0.0",
+    "EndIP": "211.227.255.255",
+    "Prefix": "/15",
+    "AllocationDate": 20001212
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "211.228.0.0",
+    "EndIP": "211.231.255.255",
+    "Prefix": "/14",
+    "AllocationDate": 20001212
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "211.234.0.0",
+    "EndIP": "211.234.63.255",
+    "Prefix": "/18",
+    "AllocationDate": 20000908
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "211.234.64.0",
+    "EndIP": "211.234.95.255",
+    "Prefix": "/19",
+    "AllocationDate": 20000908
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "211.234.96.0",
+    "EndIP": "211.234.127.255",
+    "Prefix": "/19",
+    "AllocationDate": 20000908
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "211.252.0.0",
+    "EndIP": "211.253.255.255",
+    "Prefix": "/15",
+    "AllocationDate": 20000908
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "211.254.0.0",
+    "EndIP": "211.254.127.255",
+    "Prefix": "/17",
+    "AllocationDate": 20000908
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "211.254.128.0",
+    "EndIP": "211.254.191.255",
+    "Prefix": "/18",
+    "AllocationDate": 20000908
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "222.231.0.0",
+    "EndIP": "222.231.63.255",
+    "Prefix": "/18",
+    "AllocationDate": 20040727
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "222.232.0.0",
+    "EndIP": "222.239.255.255",
+    "Prefix": "/13",
+    "AllocationDate": 20040402
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "222.251.128.0",
+    "EndIP": "222.251.255.255",
+    "Prefix": "/17",
+    "AllocationDate": 20051215
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "223.26.128.0",
+    "EndIP": "223.26.255.255",
+    "Prefix": "/17",
+    "AllocationDate": 20100819
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "203.77.176.0",
+    "EndIP": "203.77.176.255",
+    "Prefix": "/24",
+    "AllocationDate": 20051207
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "203.90.32.0",
+    "EndIP": "203.90.63.255",
+    "Prefix": "/19",
+    "AllocationDate": 20041130
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "203.123.192.0",
+    "EndIP": "203.123.223.255",
+    "Prefix": "/19",
+    "AllocationDate": 20050308
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "203.149.112.0",
+    "EndIP": "203.149.127.255",
+    "Prefix": "/20",
+    "AllocationDate": 20070124
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "203.170.96.0",
+    "EndIP": "203.170.127.255",
+    "Prefix": "/19",
+    "AllocationDate": 20051011
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "203.171.160.0",
+    "EndIP": "203.171.191.255",
+    "Prefix": "/19",
+    "AllocationDate": 20051012
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "203.173.96.0",
+    "EndIP": "203.173.127.255",
+    "Prefix": "/19",
+    "AllocationDate": 20051025
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "203.223.96.0",
+    "EndIP": "203.223.127.255",
+    "Prefix": "/19",
+    "AllocationDate": 20060427
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "203.223.177.0",
+    "EndIP": "203.223.177.255",
+    "Prefix": "/24",
+    "AllocationDate": 20090225
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "203.224.0.0",
+    "EndIP": "203.224.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 19950825
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "203.225.0.0",
+    "EndIP": "203.225.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 19950928
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "203.233.0.0",
+    "EndIP": "203.233.127.255",
+    "Prefix": "/17",
+    "AllocationDate": 19960216
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "203.248.0.0",
+    "EndIP": "203.248.127.255",
+    "Prefix": "/17",
+    "AllocationDate": 19960929
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "203.248.128.0",
+    "EndIP": "203.248.255.255",
+    "Prefix": "/17",
+    "AllocationDate": 19960929
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "203.252.0.0",
+    "EndIP": "203.252.15.255",
+    "Prefix": "/20",
+    "AllocationDate": 19960929
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "203.252.32.0",
+    "EndIP": "203.252.63.255",
+    "Prefix": "/19",
+    "AllocationDate": 19960929
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "210.0.32.0",
+    "EndIP": "210.0.63.255",
+    "Prefix": "/19",
+    "AllocationDate": 20060221
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "210.192.64.0",
+    "EndIP": "210.192.95.255",
+    "Prefix": "/19",
+    "AllocationDate": 20060703
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "210.210.192.0",
+    "EndIP": "210.210.255.255",
+    "Prefix": "/18",
+    "AllocationDate": 20050426
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "210.211.0.0",
+    "EndIP": "210.211.15.255",
+    "Prefix": "/20",
+    "AllocationDate": 20101230
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "210.211.64.0",
+    "EndIP": "210.211.95.255",
+    "Prefix": "/19",
+    "AllocationDate": 20090924
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "218.48.0.0",
+    "EndIP": "218.49.255.255",
+    "Prefix": "/15",
+    "AllocationDate": 20010615
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "218.50.0.0",
+    "EndIP": "218.51.255.255",
+    "Prefix": "/15",
+    "AllocationDate": 20011122
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "218.52.0.0",
+    "EndIP": "218.55.255.255",
+    "Prefix": "/14",
+    "AllocationDate": 20011122
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "219.240.0.0",
+    "EndIP": "219.241.255.255",
+    "Prefix": "/15",
+    "AllocationDate": 20020430
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "220.72.0.0",
+    "EndIP": "220.79.255.255",
+    "Prefix": "/13",
+    "AllocationDate": 20020829
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "220.80.0.0",
+    "EndIP": "220.87.255.255",
+    "Prefix": "/13",
+    "AllocationDate": 20020829
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "220.88.0.0",
+    "EndIP": "220.91.255.255",
+    "Prefix": "/14",
+    "AllocationDate": 20020829
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "220.92.0.0",
+    "EndIP": "220.95.255.255",
+    "Prefix": "/14",
+    "AllocationDate": 20021231
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "220.103.0.0",
+    "EndIP": "220.103.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20040609
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "220.116.0.0",
+    "EndIP": "220.119.255.255",
+    "Prefix": "/14",
+    "AllocationDate": 20021231
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "220.120.0.0",
+    "EndIP": "220.127.255.255",
+    "Prefix": "/13",
+    "AllocationDate": 20021231
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "221.132.64.0",
+    "EndIP": "221.132.95.255",
+    "Prefix": "/19",
+    "AllocationDate": 20050114
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "221.133.128.0",
+    "EndIP": "221.133.191.255",
+    "Prefix": "/18",
+    "AllocationDate": 20050224
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "223.28.128.0",
+    "EndIP": "223.28.255.255",
+    "Prefix": "/17",
+    "AllocationDate": 20100825
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "223.32.0.0",
+    "EndIP": "223.63.255.255",
+    "Prefix": "/11",
+    "AllocationDate": 20100817
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "223.130.64.0",
+    "EndIP": "223.130.127.255",
+    "Prefix": "/18",
+    "AllocationDate": 20100802
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "223.131.0.0",
+    "EndIP": "223.131.255.255",
+    "Prefix": "/16",
+    "AllocationDate": 20100714
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "223.165.128.0",
+    "EndIP": "223.165.255.255",
+    "Prefix": "/17",
+    "AllocationDate": 20100802
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "223.168.0.0",
+    "EndIP": "223.175.255.255",
+    "Prefix": "/13",
+    "AllocationDate": 20100719
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "223.194.0.0",
+    "EndIP": "223.195.255.255",
+    "Prefix": "/15",
+    "AllocationDate": 20100729
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "203.81.8.0",
+    "EndIP": "203.81.11.255",
+    "Prefix": "/22",
+    "AllocationDate": 20070112
+  },
+  {
+    "BaseDate": 20160515,
+    "CountryCode": "KR",
+    "StartIP": "203.81.128.0",
+    "EndIP": "203.81.159.255",
+    "Prefix": "/19",
+    "AllocationDate": 20041019
+  }
+]
