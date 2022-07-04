@@ -40,7 +40,7 @@ export const block_ip = (country_code: string) => {
     if (is.not.ip(clientIP)) {
       throw new ReferenceError(`'${clientIP}' is not IP`);
     }
-    const ipv4_infos: Ipv4_Info[] = require(`./ipv4/${country_code}.json`);
+    const ipv4_infos: Ipv4_Info[] = require(`./ipv4/${country_code}.ts`);
     for (const ipv4_info of ipv4_infos) {
       if (
         isIncludedIP(ipv4_info.StartIP, ipv4_info.EndIP, clientIP as string)
